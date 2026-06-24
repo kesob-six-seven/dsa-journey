@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-9%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-18%2F474-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
@@ -20,11 +20,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.9%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.0%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `9/54` |
+| Learn the Basics | 🟡 Grinding | `20/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -38,7 +38,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 📅 Daily Log
 
-<details open>
+<details>
 <summary><b>Day 1 — Things to Know in C++ (Subtopics)</b></summary>
 
 - ✅ Input Output
@@ -51,13 +51,30 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 2 — Things to Know in C++ complete (9/9)</b></summary>
 
 - ✅ Functions (Pass by Reference and Value)
 - ✅ Theory with examples (incl. basic Time & Space Complexity)
 
-</details>---
+</details>
+
+<details open>
+<summary><b>Day 3 — Build-up Logical Thinking (Patterns 1-9)</b></summary>
+
+- ✅ Pattern 1: Rectangular Star Pattern
+- ✅ Pattern 2: Right-Angled Triangle Pattern
+- ✅ Pattern 3: Right-Angled Number Triangle
+- ✅ Pattern 4: Right-Angled Number Triangle II
+- ✅ Pattern 5: Inverted Right-Angled Triangle
+- ✅ Pattern 6: Inverted Number Triangle
+- ✅ Pattern 7: Star Pyramid
+- ✅ Pattern 8: Inverted Star Pyramid
+- ✅ Pattern 9: Diamond Star Pattern
+
+</details>
+
+---
 
 ## 🛠️ Built With
 
@@ -78,4 +95,4 @@ If you're also grinding DSA, feel free to ⭐ star this and we can keep each oth
 
 ---
 
-*Last updated: Day 2*
+*Last updated: Day 3*
