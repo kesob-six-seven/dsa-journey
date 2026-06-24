@@ -94,9 +94,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 If you're also grinding DSA, feel free to ⭐ star this and we can keep each other accountable.
 
 ---
-
-<<<<<<< HEAD
 *Last updated: Day 3*
-=======
-*Last updated: Day 2*
->>>>>>> 02eb958481a0780fa553a50fb02c5b8becf5bb3f
