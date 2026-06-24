@@ -70,6 +70,8 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🎯 Why This Repo Exists
 
+Cuz it will also help me to improve my Git (SKILLMAXXING 💪).
+
 Most people *say* they're learning DSA. This repo is proof I actually am — daily commits, real code, real progress, zero fluff.
 
 If you're also grinding DSA, feel free to ⭐ star this and we can keep each other accountable.
