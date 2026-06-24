@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-18%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-20%2F474-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
