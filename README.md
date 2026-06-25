@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-20%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-31%2F474-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
@@ -20,11 +20,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.0%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.5%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `20/54` |
+| Learn the Basics | 🟡 Grinding | `31/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -59,7 +59,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 3 — Build-up Logical Thinking (Patterns 1-9)</b></summary>
 
 - ✅ Pattern 1: Rectangular Star Pattern
@@ -71,6 +71,23 @@ No skipped days. No fake commits. Just the actual grind, documented.
 - ✅ Pattern 7: Star Pyramid
 - ✅ Pattern 8: Inverted Star Pyramid
 - ✅ Pattern 9: Diamond Star Pattern
+
+</details>
+
+<details open>
+<summary><b>Day 4 — Logical Thinking Complete & Advanced Patterns</b></summary>
+
+- ✅ Pattern 10: Half Diamond Star Pattern
+- ✅ Pattern 11: Binary Number Triangle Pattern
+- ✅ Pattern 12: Number Crown Pattern
+- ✅ Pattern 13: Increasing Number Triangle Pattern
+- ✅ Pattern 14: Increasing Letter Triangle Pattern
+- ✅ Pattern 15: Reverse Letter Triangle Pattern
+- ✅ Pattern 16: Alpha-Ramp Pattern
+- ✅ Pattern 17: Alpha-Hill Pattern *(Note: Flagged for Revision 🔄)*
+- ✅ Pattern 18: Alpha-Triangle Pattern
+- ✅ Pattern 19: Symmetric Void Pattern
+- ✅ Pattern 20: Symmetric Butterfly Pattern *(Note: Flagged for Revision 🔄)*
 
 </details>
 
@@ -94,4 +111,5 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 If you're also grinding DSA, feel free to ⭐ star this and we can keep each other accountable.
 
 ---
-*Last updated: Day 3*
+
+*Last updated: Day 4*
