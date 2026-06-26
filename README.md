@@ -98,6 +98,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 - ✅ STL Containers: `std::pair` basic & nested declarations
 - ✅ STL Containers: Dynamic Memory Allocation with `std::vector`
 - ✅ STL Iterators: Memory navigation using `.begin()`, `.end()`, `.rbegin()`, `.rend()`
+- 🛠️ Repo Maintenance: Consolidated 6 separate Day 1 files (`input_output`, `cpp_basics`, `if_elseif`, `switch_case`, `for_loops`, `while_loops`) into a single `day1_arrays_strings_intro.cpp` for cleaner structure
 
 </details>
 
