@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-31%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-33%2F474-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
@@ -20,11 +20,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.5%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.9%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `31/54` |
+| Learn the Basics | 🟡 Grinding | `33/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -32,7 +32,6 @@ No skipped days. No fake commits. Just the actual grind, documented.
 | LinkedList | ⬜ Locked | `0/31` |
 | Recursion | ⬜ Locked | `0/25` |
 | Bit Manipulation | ⬜ Locked | `0/18` |
-| *(...more sections unlock as I level up)* | | |
 
 ---
 
@@ -74,8 +73,8 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 </details>
 
-<details open>
-<summary><b>Day 4 — Logical Thinking Complete & Advanced Patterns</b></summary>
+<details>
+<summary><b>Day 4 — Logical Thinking Continued (Patterns 10-20)</b></summary>
 
 - ✅ Pattern 10: Half Diamond Star Pattern
 - ✅ Pattern 11: Binary Number Triangle Pattern
@@ -88,6 +87,17 @@ No skipped days. No fake commits. Just the actual grind, documented.
 - ✅ Pattern 18: Alpha-Triangle Pattern
 - ✅ Pattern 19: Symmetric Void Pattern
 - ✅ Pattern 20: Symmetric Butterfly Pattern *(Note: Flagged for Revision 🔄)*
+
+</details>
+
+<details open>
+<summary><b>Day 5 — Patterns Concluded & C++ STL Ingestion</b></summary>
+
+- ✅ Pattern 21: Hollow Rectangle Pattern *(Note: Flagged for Revision 🔄)*
+- ✅ Pattern 22: Number Matrix Shift Pattern *(Note: Flagged for Revision 🔄)*
+- ✅ STL Containers: `std::pair` basic & nested declarations
+- ✅ STL Containers: Dynamic Memory Allocation with `std::vector`
+- ✅ STL Iterators: Memory navigation using `.begin()`, `.end()`, `.rbegin()`, `.rend()`
 
 </details>
 
@@ -108,8 +118,6 @@ Cuz it will also help me to improve my Git (SKILLMAXXING 💪).
 
 Most people *say* they're learning DSA. This repo is proof I actually am — daily commits, real code, real progress, zero fluff.
 
-If you're also grinding DSA, feel free to ⭐ star this and we can keep each other accountable.
-
 ---
 
-*Last updated: Day 4*
+*Last updated: Day 5*
