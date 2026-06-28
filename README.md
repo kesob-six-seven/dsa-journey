@@ -114,8 +114,8 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 <summary><b>Day 6 — STL Continued: List, Stack, Queue, PQ, Set</b></summary>
 
 - ✅ Vector (continued): iterators, `auto`, range-based loop, `erase()`, `insert()` variations, `swap()`, `clear()`
-- ✅ List: `push_back()`, `emplace_back()`, `push_front()`, `emplace_front()` *(Note: Flagged for Revision 🔄 — last line looks unfinished)*
-- ✅ Stack (LIFO): `push()`, `top()`, `pop()`, `size()`, `empty()`, `swap()` *(Note: Flagged for Revision 🔄 — comments don't match actual values)*
+- ✅ List: `push_back()`, `emplace_back()`, `push_front()`, `emplace_front()` 
+- ✅ Stack (LIFO): `push()`, `top()`, `pop()`, `size()`, `empty()`, `swap()` 
 - ✅ Queue (FIFO): `push()`, `emplace()`, `back()`, `front()`, `pop()`
 - ✅ Priority Queue: max-heap default, min-heap via `greater<int>`
 - ✅ Set: unique inserts, `find()`, `erase()`, `count()`, range erase
