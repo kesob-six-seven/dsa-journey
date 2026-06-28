@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-33%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-35%2F474-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
@@ -20,11 +20,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.9%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7.4%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `33/54` |
+| Learn the Basics | 🟡 Grinding | `35/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -99,6 +99,28 @@ No skipped days. No fake commits. Just the actual grind, documented.
 - ✅ STL Containers: Dynamic Memory Allocation with `std::vector`
 - ✅ STL Iterators: Memory navigation using `.begin()`, `.end()`, `.rbegin()`, `.rend()`
 - 🛠️ Repo Maintenance: Consolidated 6 separate Day 1 files (`input_output`, `cpp_basics`, `if_elseif`, `switch_case`, `for_loops`, `while_loops`) into a single `day1_arrays_strings_intro.cpp` for cleaner structure
+
+</details>
+
+<details>
+<summary><b>Day X — 💀 SKIPPED (June 27, 2026)</b></summary>
+
+No commits. No code. No excuses logged at the time — just silence.
+Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
+
+</details>
+
+<details open>
+<summary><b>Day 6 — STL Continued: List, Stack, Queue, PQ, Set</b></summary>
+
+- ✅ Vector (continued): iterators, `auto`, range-based loop, `erase()`, `insert()` variations, `swap()`, `clear()`
+- ✅ List: `push_back()`, `emplace_back()`, `push_front()`, `emplace_front()` *(Note: Flagged for Revision 🔄 — last line looks unfinished)*
+- ✅ Stack (LIFO): `push()`, `top()`, `pop()`, `size()`, `empty()`, `swap()` *(Note: Flagged for Revision 🔄 — comments don't match actual values)*
+- ✅ Queue (FIFO): `push()`, `emplace()`, `back()`, `front()`, `pop()`
+- ✅ Priority Queue: max-heap default, min-heap via `greater<int>`
+- ✅ Set: unique inserts, `find()`, `erase()`, `count()`, range erase
+- ✅ Multiset (concept): same as set but allows duplicates
+- ✅ Unordered Set (concept): no ordering, better avg time complexity, no `lower_bound`/`upper_bound`
 
 </details>
 
