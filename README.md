@@ -90,7 +90,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 5 — Patterns Concluded & C++ STL Ingestion</b></summary>
 
 - ✅ Pattern 21: Hollow Rectangle Pattern *(Note: Flagged for Revision 🔄)*
@@ -114,8 +114,8 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 <summary><b>Day 6 — STL Continued: List, Stack, Queue, PQ, Set</b></summary>
 
 - ✅ Vector (continued): iterators, `auto`, range-based loop, `erase()`, `insert()` variations, `swap()`, `clear()`
-- ✅ List: `push_back()`, `emplace_back()`, `push_front()`, `emplace_front()` 
-- ✅ Stack (LIFO): `push()`, `top()`, `pop()`, `size()`, `empty()`, `swap()` 
+- ✅ List: `push_back()`, `emplace_back()`, `push_front()`, `emplace_front()`
+- ✅ Stack (LIFO): `push()`, `top()`, `pop()`, `size()`, `empty()`, `swap()`
 - ✅ Queue (FIFO): `push()`, `emplace()`, `back()`, `front()`, `pop()`
 - ✅ Priority Queue: max-heap default, min-heap via `greater<int>`
 - ✅ Set: unique inserts, `find()`, `erase()`, `count()`, range erase
@@ -143,4 +143,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 5*
+*Last updated: Day 6*
