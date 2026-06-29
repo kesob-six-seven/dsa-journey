@@ -127,7 +127,7 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 <details open>
 <summary><b>Day 7 — STL: Map, Sort & Permutations (lighter day, busy schedule)</b></summary>
 
-- ✅ Map: unique sorted keys, `emplace()`, `insert()`, `find()`, `lower_bound()` *(Note: Flagged for Revision 🔄 — syntax errors, won't compile as-is)*
+- ✅ Map: unique sorted keys, `emplace()`, `insert()`, `find()`, `lower_bound()` 
 - ✅ Multimap (concept): like map but allows duplicate keys, no `mp[key]` access
 - ✅ Unordered Map (concept): same tradeoff as set vs unordered_set, but unique keys
 - ✅ Sorting: array/vector `sort()`, descending via `greater<int>`, custom boolean comparator for pairs
