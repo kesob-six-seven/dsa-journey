@@ -110,7 +110,7 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 6 — STL Continued: List, Stack, Queue, PQ, Set</b></summary>
 
 - ✅ Vector (continued): iterators, `auto`, range-based loop, `erase()`, `insert()` variations, `swap()`, `clear()`
@@ -124,6 +124,17 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 
 </details>
 
+<details open>
+<summary><b>Day 7 — STL: Map, Sort & Permutations (lighter day, busy schedule)</b></summary>
+
+- ✅ Map: unique sorted keys, `emplace()`, `insert()`, `find()`, `lower_bound()` *(Note: Flagged for Revision 🔄 — syntax errors, won't compile as-is)*
+- ✅ Multimap (concept): like map but allows duplicate keys, no `mp[key]` access
+- ✅ Unordered Map (concept): same tradeoff as set vs unordered_set, but unique keys
+- ✅ Sorting: array/vector `sort()`, descending via `greater<int>`, custom boolean comparator for pairs
+- ✅ Bit tricks: `__builtin_popcount()` / `__builtin_popcountll()` for counting set bits
+- ✅ Permutations: `next_permutation()` loop, `max_element()` / `min_element()`
+
+</details>
 ---
 
 ## 🛠️ Built With
@@ -143,4 +154,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 6*
+*Last updated: Day 7*
