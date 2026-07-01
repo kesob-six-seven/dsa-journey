@@ -162,4 +162,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 7*
+*Last updated: Day X*
