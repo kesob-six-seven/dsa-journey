@@ -135,6 +135,14 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 - ✅ Permutations: `next_permutation()` loop, `max_element()` / `min_element()`
 
 </details>
+<details>
+<summary>Day X — June 30, 2026 — 💀 SKIPPED </summary>
+
+**Status:** Skipped — 16+ hours of travel, no laptop/study access.
+**Problems solved:** 0
+**Note:** Not counted in the day sequence; next solving day continues as Day 8.
+
+</details>
 ---
 
 ## 🛠️ Built With
