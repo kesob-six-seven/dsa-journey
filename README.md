@@ -11,8 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-35%2F474-orange?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
+![Progress](https://img.shields.io/badge/Overall_Progress-39%2F474-orange?style=for-the-badge)![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -20,11 +19,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7.4%`
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.2%
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `35/54` |
+| Learn the Basics | 🟡 Grinding | `39/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -124,19 +123,34 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 7 — STL: Map, Sort & Permutations (lighter day, busy schedule)</b></summary>
 
-- ✅ Map: unique sorted keys, `emplace()`, `insert()`, `find()`, `lower_bound()` 
+- ✅ Map: unique sorted keys, `emplace()`, `insert()`, `find()`, `lower_bound()` *(Note: Flagged for Revision 🔄)*
 - ✅ Multimap (concept): like map but allows duplicate keys, no `mp[key]` access
 - ✅ Unordered Map (concept): same tradeoff as set vs unordered_set, but unique keys
-- ✅ Sorting: array/vector `sort()`, descending via `greater<int>`, custom boolean comparator for pairs
+- ✅ Sorting: array/vector `sort()`, descending via `greater<int>()`, custom boolean comparator for pairs
 - ✅ Bit tricks: `__builtin_popcount()` / `__builtin_popcountll()` for counting set bits
 - ✅ Permutations: `next_permutation()` loop, `max_element()` / `min_element()`
 
 </details>
+
 <details>
-<summary>Day X — June 30, 2026 — 💀 SKIPPED </summary>
+<summary><b>Day X — 💀 SKIPPED (June 30, 2026)</b></summary>
+
+Travelling. No code, no commits — flagged honestly, no drama.
+
+</details>
+
+<details open>
+<summary><b>Day 8 — Basic Maths Begins</b></summary>
+
+- ✅ Count Digits: extract-and-divide via `%10` / `/10` loop
+- ✅ Reverse a Number: digit-by-digit rebuild into `revnum` *(overflow edge case not yet handled)*
+- ✅ Check Palindrome: reuse reverse-number logic, compare against original *(Note: negative number early-return handled)*
+- ✅ Armstrong Number: sum of cubed digits 
+
+</details>
 
 **Status:** Skipped — 16+ hours of travel, no laptop/study access.
 **Problems solved:** 0
@@ -162,4 +176,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day X*
+*Last updated: Day 8*
