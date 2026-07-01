@@ -152,11 +152,7 @@ Travelling. No code, no commits — flagged honestly, no drama.
 
 </details>
 
-**Status:** Skipped — 16+ hours of travel, no laptop/study access.
-**Problems solved:** 0
-**Note:** Not counted in the day sequence; next solving day continues as Day 8.
 
-</details>
 ---
 
 ## 🛠️ Built With
