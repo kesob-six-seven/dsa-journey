@@ -139,6 +139,7 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 <summary><b>Day X — 💀 SKIPPED (June 30, 2026)</b></summary>
 
 Travelling. No code, no commits — flagged honestly, no drama.
+</details>
 
 <details>
 <summary><b>Day 8 — Basic Maths Begins</b></summary>
