@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-39%2F474-orange?style=for-the-badge)![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
+![Progress](https://img.shields.io/badge/Overall_Progress-42%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,11 +19,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.2%
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.9%
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `39/54` |
+| Learn the Basics | 🟡 Grinding | `42/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -140,15 +140,24 @@ Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
 
 Travelling. No code, no commits — flagged honestly, no drama.
 
-</details>
-
-<details open>
+<details>
 <summary><b>Day 8 — Basic Maths Begins</b></summary>
 
 - ✅ Count Digits: extract-and-divide via `%10` / `/10` loop
 - ✅ Reverse a Number: digit-by-digit rebuild into `revnum` *(overflow edge case not yet handled)*
 - ✅ Check Palindrome: reuse reverse-number logic, compare against original *(Note: negative number early-return handled)*
-- ✅ Armstrong Number: sum of cubed digits 
+- ✅ Armstrong Number: sum of cubed digits *(Note:  Flagged for Revision 🔄)*
+
+</details>
+
+<details open>
+<summary><b>Day 9 — Divisors, Primality & GCD</b></summary>
+
+- ✅ Print All Divisors (brute force): `O(n)` loop, straightforward mod check
+- ✅ Print All Divisors (optimized): `O(√n)` loop with complement pairing *(Note: Flagged for Revision 🔄 by me)*
+- ✅ Check Prime Number: divisor-counting method — exactly 2 factors means prime
+- ✅ GCD (brute force): iterate downward from `min(n1,n2)`, first common divisor wins
+- ✅ GCD (Euclidean Algorithm): `gcd(a,b) = gcd(a%b, b)` — repeated mod till one hits zero
 
 </details>
 
@@ -172,4 +181,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 8*
+*Last updated: Day 9*
