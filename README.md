@@ -152,24 +152,22 @@ Travelling. No code, no commits — flagged honestly, no drama.
 </details>
 
 <details open>
-<summary><b>Day 9 — Divisors, Primality, GCD & Recursion Basics (Shift 1 + Shift 2)</b></summary>
+<summary><b>Day 9 — Divisors, GCD & Recursion Intro (Double Shift)</b></summary>
 
-**Shift 1:**
+- **Shift 1: Maths**
 - ✅ Print All Divisors (brute force): `O(n)` loop, straightforward mod check
 - ✅ Print All Divisors (optimized): `O(√n)` loop with complement pairing *(Note: Flagged for Revision 🔄 by me)*
 - ✅ Check Prime Number: divisor-counting method — exactly 2 factors means prime
 - ✅ GCD (brute force): iterate downward from `min(n1,n2)`, first common divisor wins
 - ✅ GCD (Euclidean Algorithm): `gcd(a,b) = gcd(a%b, b)` — repeated mod till one hits zero
-
-**Shift 2:**
-- ✅ Recursion intro: unbounded self-call demo, base-case concept
-- ✅ Base-case pitfall example *(Note: Flagged for Revision 🔄 — local var reinit causes infinite recursion)*
-- ✅ Print Name N Times using recursion — `O(n)` time & space
-- ✅ Print Linearly 1 to N, and N to 1 (two variants)
-- ✅ Backtracking intro: print-after-recursive-call pattern, both ascending and descending *(Note: both flagged for revision 🔄 by me)*
+- **Shift 2: Recursion Basics**
+- ✅ Recursion Intro: base conditions, memory limits (stack overflow), infinite recursion bug caught *(Note: Flagged for Revision 🔄)*
+- ✅ Print Name `N` times, Print `1 to N`, Print `N to 1` (forward recursion)
+- ✅ Backtracking Intro: Print `1 to N` and `N to 1` using backtracking — executing statements *after* the function call returns *(Note: Flagged for Revision 🔄)*
 
 </details>
 
+---
 ---
 
 ## 🛠️ Built With
