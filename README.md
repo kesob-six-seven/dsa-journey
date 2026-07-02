@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-42%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-46%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,11 +19,11 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.9%
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9.7%
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `42/54` |
+| Learn the Basics | 🟡 Grinding | `46/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -152,16 +152,23 @@ Travelling. No code, no commits — flagged honestly, no drama.
 </details>
 
 <details open>
-<summary><b>Day 9 — Divisors, Primality & GCD</b></summary>
+<summary><b>Day 9 — Divisors, Primality, GCD & Recursion Basics (Shift 1 + Shift 2)</b></summary>
 
+**Shift 1:**
 - ✅ Print All Divisors (brute force): `O(n)` loop, straightforward mod check
 - ✅ Print All Divisors (optimized): `O(√n)` loop with complement pairing *(Note: Flagged for Revision 🔄 by me)*
 - ✅ Check Prime Number: divisor-counting method — exactly 2 factors means prime
 - ✅ GCD (brute force): iterate downward from `min(n1,n2)`, first common divisor wins
 - ✅ GCD (Euclidean Algorithm): `gcd(a,b) = gcd(a%b, b)` — repeated mod till one hits zero
 
-</details>
+**Shift 2:**
+- ✅ Recursion intro: unbounded self-call demo, base-case concept
+- ✅ Base-case pitfall example *(Note: Flagged for Revision 🔄 — local var reinit causes infinite recursion)*
+- ✅ Print Name N Times using recursion — `O(n)` time & space
+- ✅ Print Linearly 1 to N, and N to 1 (two variants)
+- ✅ Backtracking intro: print-after-recursive-call pattern, both ascending and descending *(Note: both flagged for revision 🔄 by me)*
 
+</details>
 
 ---
 
