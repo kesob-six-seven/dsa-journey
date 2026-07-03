@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-46%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-50%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,11 +19,12 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9.7%
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.5%`
+
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `46/54` |
+| Learn the Basics | 🟡 Grinding | `50/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -151,7 +152,7 @@ Travelling. No code, no commits — flagged honestly, no drama.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 9 — Divisors, GCD & Recursion Intro (Double Shift)</b></summary>
 
 - **Shift 1: Maths**
@@ -164,6 +165,16 @@ Travelling. No code, no commits — flagged honestly, no drama.
 - ✅ Recursion Intro: base conditions, memory limits (stack overflow), infinite recursion bug caught *(Note: Flagged for Revision 🔄)*
 - ✅ Print Name `N` times, Print `1 to N`, Print `N to 1` (forward recursion)
 - ✅ Backtracking Intro: Print `1 to N` and `N to 1` using backtracking — executing statements *after* the function call returns *(Note: Flagged for Revision 🔄)*
+
+</details>
+<details open>
+<summary><b>Day 10 — Functional Recursion & Pointers</b></summary>
+
+- ✅ Sum of first N numbers: Parameterized recursion (`sum` carried in args) vs Functional recursion (returning `i + f(i-1)`)
+- ✅ Factorial of N: Functional approach `i * f(i-1)`
+- ✅ Reverse Array: Two-pointer recursive swap `(l, r)` *(Note: Flagged for Revision 🔄)*
+- ✅ Reverse Array: One-pointer recursive swap `(i, n-i-1)` *(Note: Flagged for Revision 🔄)*
+- ✅ Check Palindrome (String): One-pointer recursive check matching start to end *(Note: Flagged for Revision 🔄)*
 
 </details>
 
@@ -187,4 +198,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 9*
+*Last updated: Day 10*
