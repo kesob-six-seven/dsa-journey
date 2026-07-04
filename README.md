@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-50%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-51%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,12 +19,12 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.5%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.8%`
 
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `50/54` |
+| Learn the Basics | 🟡 Grinding | `51/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -167,7 +167,7 @@ Travelling. No code, no commits — flagged honestly, no drama.
 - ✅ Backtracking Intro: Print `1 to N` and `N to 1` using backtracking — executing statements *after* the function call returns *(Note: Flagged for Revision 🔄)*
 
 </details>
-<details open>
+<details>
 <summary><b>Day 10 — Functional Recursion & Pointers</b></summary>
 
 - ✅ Sum of first N numbers: Parameterized recursion (`sum` carried in args) vs Functional recursion (returning `i + f(i-1)`)
@@ -175,6 +175,14 @@ Travelling. No code, no commits — flagged honestly, no drama.
 - ✅ Reverse Array: Two-pointer recursive swap `(l, r)` *(Note: Flagged for Revision 🔄)*
 - ✅ Reverse Array: One-pointer recursive swap `(i, n-i-1)` *(Note: Flagged for Revision 🔄)*
 - ✅ Check Palindrome (String): One-pointer recursive check matching start to end *(Note: Flagged for Revision 🔄)*
+
+</details>
+
+<details open>
+<summary><b>Day 11 — Recursion: Fibonacci (Sick Day Grind)</b></summary>
+
+- ✅ Fibonacci Number: Implemented multiple recursive calls `f(n-1) + f(n-2)` to find the Nth term.
+- ✅ Fibonacci Series: Implemented bottom-up iterative approach using an array to print the full sequence up to N.
 
 </details>
 
