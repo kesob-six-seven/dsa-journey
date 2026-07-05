@@ -178,13 +178,22 @@ Travelling. No code, no commits — flagged honestly, no drama.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 11 — Recursion: Fibonacci (Sick Day Grind)</b></summary>
 
 - ✅ Fibonacci Number: Implemented multiple recursive calls `f(n-1) + f(n-2)` to find the Nth term.
 - ✅ Fibonacci Series: Implemented bottom-up iterative approach using an array to print the full sequence up to N.
 
 </details>
+
+<details open>
+<summary><b>Day 12 — Basic Hashing (Arrays & Strings)</b></summary>
+
+- ✅ Number Hashing: Pre-computed frequencies into a fixed-size array to optimize $O(Q \times N)$ queries down to $O(1)$ fetches. 
+- ✅ String Hashing: Used ASCII auto-casting with a 256-size hash array to map and count character frequencies in $O(1)$ time.
+
+</details>
+
 
 ---
 ---
@@ -206,4 +215,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 10*
+*Last updated: Day 12*
