@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-51%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-53%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,12 +19,12 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.8%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11.2%`
 
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `51/54` |
+| Learn the Basics | 🟡 Grinding | `53/54` |
 | Sorting Techniques | ⬜ Locked | `0/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
@@ -186,11 +186,19 @@ Travelling. No code, no commits — flagged honestly, no drama.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 12 — Basic Hashing (Arrays & Strings)</b></summary>
 
 - ✅ Number Hashing: Pre-computed frequencies into a fixed-size array to optimize $O(Q \times N)$ queries down to $O(1)$ fetches. 
 - ✅ String Hashing: Used ASCII auto-casting with a 256-size hash array to map and count character frequencies in $O(1)$ time.
+
+</details>
+<details open>
+<summary><b>Day 13 — Hashing via STL Maps</b></summary>
+
+- ✅ Ordered Map (`std::map`): Frequency counting with $O(\log N)$ TC. Keys are stored in sorted order.
+- ✅ Unordered Map (`std::unordered_map`): Frequency counting with $O(1)$ average TC. *(Note: Flagged for Revision 🔄 on worst-case TC theory—worst case is $O(N)$ due to collisions, not $O(\log N)$).*
+- ✅ Collision Theory: Notes on chaining, division method, and how hash indices handle overlapping remainders.
 
 </details>
 
