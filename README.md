@@ -197,7 +197,7 @@ Travelling. No code, no commits — flagged honestly, no drama.
 <summary><b>Day 13 — Hashing via STL Maps</b></summary>
 
 - ✅ Ordered Map (`std::map`): Frequency counting with $O(\log N)$ TC. Keys are stored in sorted order.
-- ✅ Unordered Map (`std::unordered_map`): Frequency counting with $O(1)$ average TC. *(Note: Flagged for Revision 🔄 on worst-case TC theory—worst case is $O(N)$ due to collisions, not $O(\log N)$).*
+- ✅ Unordered Map (`std::unordered_map`): Frequency counting with $O(1)$ average TC. *(Note: Flagged for Revision 🔄).*
 - ✅ Collision Theory: Notes on chaining, division method, and how hash indices handle overlapping remainders.
 
 </details>
