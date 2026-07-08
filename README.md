@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11.2%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.0%`
 
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `53/54` |
-| Sorting Techniques | ⬜ Locked | `0/7` |
+| Learn the Basics | 🟡 Grinding | `54/54` |
+| Sorting Techniques | ⬜ Locked | `4/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
@@ -193,7 +193,7 @@ Travelling. No code, no commits — flagged honestly, no drama.
 - ✅ String Hashing: Used ASCII auto-casting with a 256-size hash array to map and count character frequencies in $O(1)$ time.
 
 </details>
-<details open>
+<details>
 <summary><b>Day 13 — Hashing via STL Maps</b></summary>
 
 - ✅ Ordered Map (`std::map`): Frequency counting with $O(\log N)$ TC. Keys are stored in sorted order.
@@ -201,7 +201,31 @@ Travelling. No code, no commits — flagged honestly, no drama.
 - ✅ Collision Theory: Notes on chaining, division method, and how hash indices handle overlapping remainders.
 
 </details>
+<details>
+<summary><b>Day W — 💀 SKIPPED (July 7, 2026)</b></summary>
 
+Another silent gap. 
+
+</details>
+
+<details>
+<summary><b>Day 14 — Basics Finished, Sorting Unlocked (Double Shift)</b></summary>
+
+- ✅ Selection Sort: Find minimum, swap with current index. *
+- ✅ Bubble Sort: Adjacent swapping to push max to the end, optimized with `didswap` flag for $O(N)$ best case.
+- ✅ Insertion Sort: Place element in its correct ordered position. 
+- 🔓 **Milestone:** "Learn the Basics" section officially 100% complete.
+- ✅ Merge Sort (Shift 2): Divide and conquer algorithm achieving $O(N \log N)$ time. Used a temporary array for the merge step, making space complexity $O(N)$. *(Note: Flagged by me for 3x revision - the recursion tree takes time to click).*
+
+</details>
+<details open>
+<summary><b>Day 15 — LeetCode Revision Day (July 9)</b></summary>
+
+- 🧠 **Concept Consolidation:** Paused the Striver sheet to run raw LeetCode reps on previous topics to ensure actual retention, not just tutorial memory.
+- ✅ **Did Revision :** solved leetcode and revised the previous concepts
+- *Note: Overall sheet progress stays at 57/474, but the foundation is leveled up.*
+
+</details>
 ---
 
 ## 🛠️ Built With
@@ -221,4 +245,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 12*
+*Last updated: Day 14*
