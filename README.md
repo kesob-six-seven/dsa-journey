@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-53%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-59%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.0%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.4%`
 
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | 🟡 Grinding | `54/54` |
-| Sorting Techniques | ⬜ Locked | `4/7` |
+| Sorting Techniques | ⬜ Locked | `5/7` |
 | Arrays | ⬜ Locked | `0/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
@@ -218,12 +218,32 @@ Another silent gap.
 - ✅ Merge Sort (Shift 2): Divide and conquer algorithm achieving $O(N \log N)$ time. Used a temporary array for the merge step, making space complexity $O(N)$. *(Note: Flagged by me for 3x revision - the recursion tree takes time to click).*
 
 </details>
-<details open>
+<details>
 <summary><b>Day 15 — LeetCode Revision Day (July 9)</b></summary>
 
 - 🧠 **Concept Consolidation:** Paused the Striver sheet to run raw LeetCode reps on previous topics to ensure actual retention, not just tutorial memory.
 - ✅ **Did Revision :** solved leetcode and revised the previous concepts
 - *Note: Overall sheet progress stays at 57/474, but the foundation is leveled up.*
+
+</details>
+<details>
+<summary><b>Day U — 💀 SKIPPED (July 10, 2026)</b></summary>
+
+Got sick.  Streak broken.
+
+</details>
+
+<details>
+<summary><b>Day T — 💀 SKIPPED (July 11, 2026)</b></summary>
+
+Still sick. Still zero commits. 
+
+</details>
+<details open>
+<summary><b>Day 16 — Quick Sort (The Comeback)</b></summary>
+
+- ✅ Quick Sort: Implemented partition logic using the first element as pivot. $O(N \log N)$ TC, $O(1)$ auxiliary space. 
+- 🧠 **Daily Habit:** Maintained the new 1-hour LeetCode revision protocol.
 
 </details>
 ---
@@ -245,4 +265,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 14*
+*Last updated: Day 16*
