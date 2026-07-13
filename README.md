@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-59%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-63%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,20 +19,18 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.4%`
-
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.3%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | 🟡 Grinding | `54/54` |
-| Sorting Techniques | ⬜ Locked | `5/7` |
-| Arrays | ⬜ Locked | `0/40` |
+| Learn the Basics | ✅ Completed | `54/54` |
+| Sorting Techniques | 🟡 Grinding | `5/7` |
+| Arrays | 🟡 Grinding | `4/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
 | Recursion | ⬜ Locked | `0/25` |
 | Bit Manipulation | ⬜ Locked | `0/18` |
-
 ---
 
 ## 📅 Daily Log
@@ -239,11 +237,21 @@ Got sick.  Streak broken.
 Still sick. Still zero commits. 
 
 </details>
-<details open>
+<details>
 <summary><b>Day 16 — Quick Sort (The Comeback)</b></summary>
 
 - ✅ Quick Sort: Implemented partition logic using the first element as pivot. $O(N \log N)$ TC, $O(1)$ auxiliary space. 
 - 🧠 **Daily Habit:** Maintained the new 1-hour LeetCode revision protocol.
+
+</details>
+<details open>
+<summary><b>Day 17 — Arrays Unlocked: The Easy Tier</b></summary>
+
+- ✅ Largest Element: Linear scan.
+- ✅ Second Largest Element: Single-pass two-variable tracking to handle `INT_MIN` edge cases.
+- ✅ Check if Array is Sorted and Rotated: Brilliant modulo trick `(i+1)%n` to count sequence breaks.
+- ✅ Remove Duplicates: In-place two-pointer approach ($O(N)$ TC, $O(1)$ SC).
+- 🔓 **Milestone:** Officially broke into the Arrays section.
 
 </details>
 ---
@@ -265,4 +273,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 16*
+*Last updated: Day 17*
