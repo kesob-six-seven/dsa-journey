@@ -19,12 +19,12 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.3%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
-| Sorting Techniques | 🟡 Grinding | `5/7` |
+| Sorting Techniques | 🟡 Grinding | `7/7` |
 | Arrays | 🟡 Grinding | `4/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
@@ -244,7 +244,7 @@ Still sick. Still zero commits.
 - 🧠 **Daily Habit:** Maintained the new 1-hour LeetCode revision protocol.
 
 </details>
-<details open>
+<details>
 <summary><b>Day 17 — Arrays Unlocked: The Easy Tier</b></summary>
 
 - ✅ Largest Element: Linear scan.
@@ -252,6 +252,14 @@ Still sick. Still zero commits.
 - ✅ Check if Array is Sorted and Rotated: Brilliant modulo trick `(i+1)%n` to count sequence breaks.
 - ✅ Remove Duplicates: In-place two-pointer approach ($O(N)$ TC, $O(1)$ SC).
 - 🔓 **Milestone:** Officially broke into the Arrays section.
+
+</details>
+<details open>
+<summary><b>Day 18 — Recursive Sorting (Cleaning the Plate)</b></summary>
+
+- ✅ Recursive Bubble Sort: Translated iterative logic into recursive stack calls. Maintained `didswap` flag for $O(N)$ best-case time complexity.
+- ✅ Recursive Insertion Sort: Shifted elements recursively. 
+- 🔓 **Milestone:** "Sorting Techniques" section officially 100% complete.
 
 </details>
 ---
