@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-65%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-67%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.7%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 14.1%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `4/40` |
+| Arrays | 🟡 Grinding | `6/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -254,12 +254,21 @@ Still sick. Still zero commits.
 - 🔓 **Milestone:** Officially broke into the Arrays section.
 
 </details>
-<details open>
+<details>
 <summary><b>Day 18 — Recursive Sorting (Cleaning the Plate)</b></summary>
 
 - ✅ Recursive Bubble Sort: Translated iterative logic into recursive stack calls. Maintained `didswap` flag for $O(N)$ best-case time complexity.
 - ✅ Recursive Insertion Sort: Shifted elements recursively. 
 - 🔓 **Milestone:** "Sorting Techniques" section officially 100% complete.
+
+</details>
+<details open>
+<summary><b>Day 19 — Array Rotations (The Late Shift)</b></summary>
+
+- ✅ Rotate Array by One: Standard $O(N)$ linear shift using a single temp variable.
+- ✅ Rotate Array by K (Left & Right Brute Force): Handled modulo wrap-around `k = k % n` and extra memory allocation $O(K)$.
+- ✅ Rotate Array by K (Optimal): Implemented the $O(1)$ space reversal algorithm. `reverse(0, k)`, `reverse(k, n)`, `reverse(0, n)`.
+- 🛠️ **Code Quality Check:** Flagged an illegal Variable Length Array (`int temp[k]`) and safely migrated to `std::vector<int>`.
 
 </details>
 ---
@@ -281,4 +290,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 17*
+*Last updated: Day 19*
