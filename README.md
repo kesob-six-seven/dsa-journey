@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-67%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-70%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 14.1%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 14.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `6/40` |
+| Arrays | 🟡 Grinding | `9/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -262,7 +262,7 @@ Still sick. Still zero commits.
 - 🔓 **Milestone:** "Sorting Techniques" section officially 100% complete.
 
 </details>
-<details open>
+<details>
 <summary><b>Day 19 — Array Rotations (The Late Shift)</b></summary>
 
 - ✅ Rotate Array by One: Standard $O(N)$ linear shift using a single temp variable.
@@ -271,6 +271,17 @@ Still sick. Still zero commits.
 - 🛠️ **Code Quality Check:** Flagged an illegal Variable Length Array (`int temp[k]`) and safely migrated to `std::vector<int>`.
 
 </details>
+
+<details open>
+<summary><b>Day 20 — Basic Arrays (Move Zeroes, Linear Search, Union, Intersection)</b></summary>
+
+- ✅ Move Zeroes (Brute + Optimal)
+- ✅ Linear Search
+- ✅ Union of 2 Sorted Arrays (Brute + Optimal)
+- ✅ Intersection of 2 Sorted Arrays
+
+</details>
+
 ---
 
 ## 🛠️ Built With
@@ -290,4 +301,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 19*
+*Last updated: Day 20*
