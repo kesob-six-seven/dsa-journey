@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-74%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-75%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 15.6%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 15.8%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `12/40` |
+| Arrays | 🟡 Grinding | `13/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -281,7 +281,7 @@ Still sick. Still zero commits.
 - ✅ Intersection of 2 Sorted Arrays
 
 </details>
-<details open>
+<details>
 <summary><b>Day 21 — Arrays Easy (Missing Num, Max Ones, Single Num)</b></summary>
 
 - ✅ Missing Number (Sort + XOR)
@@ -289,6 +289,19 @@ Still sick. Still zero commits.
 - ✅ Single Number (Brute, Hash, XOR optimal)
 
 </details>
+<details>
+<summary><b>Day X — 💀 SKIPPED (July 18, 2026)</b></summary>
+
+-NO CODE 
+</details>
+<details>
+<summary><b>Day 22 — Arrays (Longest Subarray with Sum K)</b></summary>
+
+- ✅ Longest Subarray with sum K (Prefix Sum Map)
+- ✅ Longest Subarray with sum K (Two Pointers)
+
+</details>
+
 
 ---
 
@@ -309,4 +322,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 21*
+*Last updated: Day 22*
