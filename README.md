@@ -301,6 +301,12 @@ Still sick. Still zero commits.
 - ✅ Longest Subarray with sum K (Two Pointers)
 
 </details>
+<details>
+<summary><b>Day X & Y — 🔄 OFFLINE REVISION (July 20-21, 2026)</b></summary>
+
+Government jammed the local network for two days. Couldn't access the Striver sheet or push code. Instead of taking a vacation, I locked in offline and revised all previous arrays, sorting, and math concepts. No internet, no excuses. Streak survives in spirit.
+</details>
+
 
 
 ---
