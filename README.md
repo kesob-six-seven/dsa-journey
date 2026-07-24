@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-75%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-78%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,18 +19,19 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 15.8%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 16.5%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `13/40` |
+| Arrays | 🟡 Grinding | `16/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
 | Recursion | ⬜ Locked | `0/25` |
 | Bit Manipulation | ⬜ Locked | `0/18` |
+
 ---
 
 ## 📅 Daily Log
@@ -304,13 +305,21 @@ Still sick. Still zero commits.
 <details>
 <summary><b>Day X & Y — 🔄 OFFLINE REVISION (July 20-21, 2026)</b></summary>
 
+Government jammed the local network for two days. Couldn't access the Striver sheet or push code. Instead of taking a vacation, I locked in offline and revised all previous arrays, sorting, and math concepts. No internet, no excuses. Streak survives in spirit.
+</details>
+
 <details>
 <summary><b>Day X & Y — Skipped (July 22-23, 2026)</b></summary>
 
 total waste of 48 hours. said i was gonna do an 8 hour shift and ended up doing absolutely nothing. taking the L publicly so i hold myself accountable. back to the sheet tomorrow.
 </details>
+<details>
+<summary><b>Day 23 — Arrays Medium (July 24, 2026)</b></summary>
 
-Government jammed the local network for two days. Couldn't access the Striver sheet or push code. Instead of taking a vacation, I locked in offline and revised all previous arrays, sorting, and math concepts. No internet, no excuses. Streak survives in spirit.
+- ✅ Two Sum (Brute, Hashing, 2 Pointers)
+- ✅ Majority Element (Brute, Hashing, Moore's Voting Algo)
+- ✅ Sort 0, 1, 2 (Merge Sort, Counting, Dutch National Flag)
+
 </details>
 
 
