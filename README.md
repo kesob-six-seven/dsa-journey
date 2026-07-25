@@ -11,7 +11,9 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-78%2F474-orange?style=for-the-badge)
+## ⚡ Quick Stats
+
+![Progress](https://img.shields.io/badge/Overall_Progress-82%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +21,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 16.5%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 17.3%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `16/40` |
+| Arrays | 🟡 Grinding | `21/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -321,7 +323,14 @@ total waste of 48 hours. said i was gonna do an 8 hour shift and ended up doing 
 - ✅ Sort 0, 1, 2 (Merge Sort, Counting, Dutch National Flag)
 
 </details>
+<details>
+<summary><b>Day 24 — Arrays Medium (July 25, 2026)</b></summary>
 
+- ✅ Maximum Subarray (Brute, Better, Kadane's Optimal)
+- ✅ Best Time to Buy and Sell Stock (Brute, Optimal)
+- ✅ Rearrange Array Elements by Sign - Var 1 (Brute, Optimal)
+
+</details>
 
 
 ---
@@ -343,4 +352,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 22*
+*Last updated: Day 24*
