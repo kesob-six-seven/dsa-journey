@@ -337,7 +337,12 @@ total waste of 48 hours. said i was gonna do an 8 hour shift and ended up doing 
 Sunday. Rest and recovery. Back to the sheet tomorrow.
 
 </details>
+<details>
+<summary><b>Day 25 — Arrays Medium (July 28, 2026)</b></summary>
 
+- ✅ Rearrange Array Elements by Sign - Var 2 (Unequal Pos/Neg Elements)
+
+</details>
 
 ---
 
@@ -358,4 +363,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 24*
+*Last updated: Day 25*
