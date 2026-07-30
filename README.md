@@ -11,9 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-## ⚡ Quick Stats
-
-![Progress](https://img.shields.io/badge/Overall_Progress-82%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-84%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -21,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 17.3%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 17.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `21/40` |
+| Arrays | 🟡 Grinding | `23/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -343,6 +341,20 @@ Sunday. Rest and recovery. Back to the sheet tomorrow.
 - ✅ Rearrange Array Elements by Sign - Var 2 (Unequal Pos/Neg Elements)
 
 </details>
+<details>
+<summary><b>Day Skipped — (July 29, 2026)</b></summary>
+
+No code. No commits.
+
+</details>
+
+<details>
+<summary><b>Day 26 — Arrays Medium (July 30, 2026)</b></summary>
+
+- ✅ Next Permutation (Brute, STL Better, Optimal Dip/Swap)
+- ✅ Leaders in an Array (Brute, Optimal Right-to-Left Scan)
+
+</details>
 
 ---
 
@@ -363,4 +375,4 @@ Most people *say* they're learning DSA. This repo is proof I actually am — dai
 
 ---
 
-*Last updated: Day 25*
+*Last updated: Day 26*
