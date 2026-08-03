@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-85%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-86%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 17.9%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.1%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `24/40` |
+| Arrays | 🟡 Grinding | `25/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -33,7 +33,6 @@ No skipped days. No fake commits. Just the actual grind, documented.
 | Bit Manipulation | ⬜ Locked | `0/18` |
 
 ---
-
 ## 📅 Daily Log
 
 <details>
@@ -359,6 +358,19 @@ No code. No commits.
 <summary><b>Day 27 — Arrays Medium (July 30, 2026)</b></summary>
 
 - ✅ Longest Consecutive Sequence (Brute, Better Sorting, Optimal HashSet) - Pushed through while sick.
+
+</details>
+<details>
+<summary><b>Day 28 — Arrays Medium (August 1, 2026)</b></summary>
+
+- ✅ Set Matrix Zeroes (Brute, Better, Optimal In-Place)
+
+</details>
+
+<details>
+<summary><b>Day R — Rest & Revise (August 2, 2026)</b></summary>
+
+Sunday. Scheduled rest and revision day.
 
 </details>
 
