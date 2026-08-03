@@ -11,7 +11,7 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-86%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-87%2F474-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
 
@@ -19,13 +19,13 @@ No skipped days. No fake commits. Just the actual grind, documented.
 
 ## 🗺️ The Roadmap
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.1%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.3%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Learn the Basics | ✅ Completed | `54/54` |
 | Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `25/40` |
+| Arrays | 🟡 Grinding | `26/40` |
 | Binary Search | ⬜ Locked | `0/32` |
 | Strings | ⬜ Locked | `0/15` |
 | LinkedList | ⬜ Locked | `0/31` |
@@ -371,6 +371,12 @@ No code. No commits.
 <summary><b>Day R — Rest & Revise (August 2, 2026)</b></summary>
 
 Sunday. Scheduled rest and revision day.
+
+</details>
+<details>
+<summary><b>Day 29 — Arrays Medium (August 3, 2026)</b></summary>
+
+- ✅ Rotate Image by 90 Degrees (Brute Force, Optimal In-Place)
 
 </details>
 
