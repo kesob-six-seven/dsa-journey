@@ -1,402 +1,52 @@
-# 🚀 DSA Journey
+# 🚀 DSA Mastery Journey 
 
-> *"The only way to get good at DSA is to do DSA."* — every senior dev, probably.
+Phase 1 was about building raw logic and foundations using Striver's A2Z. 
+**Phase 2 is about pattern recognition and interview readiness.** 
 
-On a mission to actually *understand* DSA, not just memorize patterns.
-This repo is my daily, public, no-excuses log of grinding through the **Striver A2Z DSA Sheet** — every subtopic, every problem, in C++.
-
-No skipped days. No fake commits. Just the actual grind, documented.
-
----
+I have pivoted to the **NeetCode 150**. The goal is no longer just completion; it is absolute mastery, muscle memory, and recognizing underlying patterns. (Past work is archived in `Phase1_Striver`).
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-87%2F474-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-0%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
-![Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z-2ea44f?style=for-the-badge)
+![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
-## 🗺️ The Roadmap
+## 🗺️ The Roadmap (NeetCode 150)
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.3%`
+`[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Learn the Basics | ✅ Completed | `54/54` |
-| Sorting Techniques | ✅ Completed | `7/7` |
-| Arrays | 🟡 Grinding | `26/40` |
-| Binary Search | ⬜ Locked | `0/32` |
-| Strings | ⬜ Locked | `0/15` |
-| LinkedList | ⬜ Locked | `0/31` |
-| Recursion | ⬜ Locked | `0/25` |
-| Bit Manipulation | ⬜ Locked | `0/18` |
+| Arrays & Hashing | 🟡 Grinding | `0/9` |
+| Two Pointers | ⬜ Locked | `0/5` |
+| Sliding Window | ⬜ Locked | `0/6` |
+| Stack | ⬜ Locked | `0/7` |
+| Binary Search | ⬜ Locked | `0/7` |
+| Linked List | ⬜ Locked | `0/11` |
+| Trees | ⬜ Locked | `0/15` |
+| Tries | ⬜ Locked | `0/3` |
+| Heap / Priority Queue | ⬜ Locked | `0/7` |
+| Backtracking | ⬜ Locked | `0/9` |
+| Graphs | ⬜ Locked | `0/13` |
+| Advanced Graphs | ⬜ Locked | `0/6` |
+| 1-D Dynamic Programming | ⬜ Locked | `0/12` |
+| 2-D Dynamic Programming | ⬜ Locked | `0/11` |
+| Greedy | ⬜ Locked | `0/8` |
+| Intervals | ⬜ Locked | `0/6` |
+| Math & Geometry | ⬜ Locked | `0/8` |
+| Bit Manipulation | ⬜ Locked | `0/7` |
 
 ---
-## 📅 Daily Log
+
+## 🪵 Daily Logs
 
 <details>
-<summary><b>Day 1 — Things to Know in C++ (Subtopics)</b></summary>
+<summary><b>Day 30 — The Pivot (August 4, 2026)</b></summary>
 
-- ✅ Input Output
-- ✅ Cpp Basics
-- ✅ If ElseIf
-- ✅ Switch Case
-- ✅ What are arrays, strings?
-- ✅ For loops
-- ✅ While loops
+- Realized tutorial hell and massive problem lists don't build muscle memory.
+- Archived Striver A2Z progress.
+- Migrated tracking and focus strictly to NeetCode 150 for deeper pattern mastery.
 
 </details>
-
-<details>
-<summary><b>Day 2 — Things to Know in C++ complete (9/9)</b></summary>
-
-- ✅ Functions (Pass by Reference and Value)
-- ✅ Theory with examples (incl. basic Time & Space Complexity)
-
-</details>
-
-<details>
-<summary><b>Day 3 — Build-up Logical Thinking (Patterns 1-9)</b></summary>
-
-- ✅ Pattern 1: Rectangular Star Pattern
-- ✅ Pattern 2: Right-Angled Triangle Pattern
-- ✅ Pattern 3: Right-Angled Number Triangle
-- ✅ Pattern 4: Right-Angled Number Triangle II
-- ✅ Pattern 5: Inverted Right-Angled Triangle
-- ✅ Pattern 6: Inverted Number Triangle
-- ✅ Pattern 7: Star Pyramid
-- ✅ Pattern 8: Inverted Star Pyramid
-- ✅ Pattern 9: Diamond Star Pattern
-
-</details>
-
-<details>
-<summary><b>Day 4 — Logical Thinking Continued (Patterns 10-20)</b></summary>
-
-- ✅ Pattern 10: Half Diamond Star Pattern
-- ✅ Pattern 11: Binary Number Triangle Pattern
-- ✅ Pattern 12: Number Crown Pattern
-- ✅ Pattern 13: Increasing Number Triangle Pattern
-- ✅ Pattern 14: Increasing Letter Triangle Pattern
-- ✅ Pattern 15: Reverse Letter Triangle Pattern
-- ✅ Pattern 16: Alpha-Ramp Pattern
-- ✅ Pattern 17: Alpha-Hill Pattern *(Note: Flagged for Revision 🔄)*
-- ✅ Pattern 18: Alpha-Triangle Pattern
-- ✅ Pattern 19: Symmetric Void Pattern
-- ✅ Pattern 20: Symmetric Butterfly Pattern *(Note: Flagged for Revision 🔄)*
-
-</details>
-
-<details>
-<summary><b>Day 5 — Patterns Concluded & C++ STL Ingestion</b></summary>
-
-- ✅ Pattern 21: Hollow Rectangle Pattern *(Note: Flagged for Revision 🔄)*
-- ✅ Pattern 22: Number Matrix Shift Pattern *(Note: Flagged for Revision 🔄)*
-- ✅ STL Containers: `std::pair` basic & nested declarations
-- ✅ STL Containers: Dynamic Memory Allocation with `std::vector`
-- ✅ STL Iterators: Memory navigation using `.begin()`, `.end()`, `.rbegin()`, `.rend()`
-- 🛠️ Repo Maintenance: Consolidated 6 separate Day 1 files (`input_output`, `cpp_basics`, `if_elseif`, `switch_case`, `for_loops`, `while_loops`) into a single `day1_arrays_strings_intro.cpp` for cleaner structure
-
-</details>
-
-<details>
-<summary><b>Day X — 💀 SKIPPED (June 27, 2026)</b></summary>
-
-No commits. No code. No excuses logged at the time — just silence.
-Streak broken. Confessed unprompted on June 28 because the receipts don't lie.
-
-</details>
-
-<details>
-<summary><b>Day 6 — STL Continued: List, Stack, Queue, PQ, Set</b></summary>
-
-- ✅ Vector (continued): iterators, `auto`, range-based loop, `erase()`, `insert()` variations, `swap()`, `clear()`
-- ✅ List: `push_back()`, `emplace_back()`, `push_front()`, `emplace_front()`
-- ✅ Stack (LIFO): `push()`, `top()`, `pop()`, `size()`, `empty()`, `swap()`
-- ✅ Queue (FIFO): `push()`, `emplace()`, `back()`, `front()`, `pop()`
-- ✅ Priority Queue: max-heap default, min-heap via `greater<int>`
-- ✅ Set: unique inserts, `find()`, `erase()`, `count()`, range erase
-- ✅ Multiset (concept): same as set but allows duplicates
-- ✅ Unordered Set (concept): no ordering, better avg time complexity, no `lower_bound`/`upper_bound`
-
-</details>
-
-<details>
-<summary><b>Day 7 — STL: Map, Sort & Permutations (lighter day, busy schedule)</b></summary>
-
-- ✅ Map: unique sorted keys, `emplace()`, `insert()`, `find()`, `lower_bound()` *(Note: Flagged for Revision 🔄)*
-- ✅ Multimap (concept): like map but allows duplicate keys, no `mp[key]` access
-- ✅ Unordered Map (concept): same tradeoff as set vs unordered_set, but unique keys
-- ✅ Sorting: array/vector `sort()`, descending via `greater<int>()`, custom boolean comparator for pairs
-- ✅ Bit tricks: `__builtin_popcount()` / `__builtin_popcountll()` for counting set bits
-- ✅ Permutations: `next_permutation()` loop, `max_element()` / `min_element()`
-
-</details>
-
-<details>
-<summary><b>Day X — 💀 SKIPPED (June 30, 2026)</b></summary>
-
-Travelling. No code, no commits — flagged honestly, no drama.
-</details>
-
-<details>
-<summary><b>Day 8 — Basic Maths Begins</b></summary>
-
-- ✅ Count Digits: extract-and-divide via `%10` / `/10` loop
-- ✅ Reverse a Number: digit-by-digit rebuild into `revnum` *(overflow edge case not yet handled)*
-- ✅ Check Palindrome: reuse reverse-number logic, compare against original *(Note: negative number early-return handled)*
-- ✅ Armstrong Number: sum of cubed digits *(Note:  Flagged for Revision 🔄)*
-
-</details>
-
-<details>
-<summary><b>Day 9 — Divisors, GCD & Recursion Intro (Double Shift)</b></summary>
-
-- **Shift 1: Maths**
-- ✅ Print All Divisors (brute force): `O(n)` loop, straightforward mod check
-- ✅ Print All Divisors (optimized): `O(√n)` loop with complement pairing *(Note: Flagged for Revision 🔄 by me)*
-- ✅ Check Prime Number: divisor-counting method — exactly 2 factors means prime
-- ✅ GCD (brute force): iterate downward from `min(n1,n2)`, first common divisor wins
-- ✅ GCD (Euclidean Algorithm): `gcd(a,b) = gcd(a%b, b)` — repeated mod till one hits zero
-- **Shift 2: Recursion Basics**
-- ✅ Recursion Intro: base conditions, memory limits (stack overflow), infinite recursion bug caught *(Note: Flagged for Revision 🔄)*
-- ✅ Print Name `N` times, Print `1 to N`, Print `N to 1` (forward recursion)
-- ✅ Backtracking Intro: Print `1 to N` and `N to 1` using backtracking — executing statements *after* the function call returns *(Note: Flagged for Revision 🔄)*
-
-</details>
-<details>
-<summary><b>Day 10 — Functional Recursion & Pointers</b></summary>
-
-- ✅ Sum of first N numbers: Parameterized recursion (`sum` carried in args) vs Functional recursion (returning `i + f(i-1)`)
-- ✅ Factorial of N: Functional approach `i * f(i-1)`
-- ✅ Reverse Array: Two-pointer recursive swap `(l, r)` *(Note: Flagged for Revision 🔄)*
-- ✅ Reverse Array: One-pointer recursive swap `(i, n-i-1)` *(Note: Flagged for Revision 🔄)*
-- ✅ Check Palindrome (String): One-pointer recursive check matching start to end *(Note: Flagged for Revision 🔄)*
-
-</details>
-
-<details>
-<summary><b>Day 11 — Recursion: Fibonacci (Sick Day Grind)</b></summary>
-
-- ✅ Fibonacci Number: Implemented multiple recursive calls `f(n-1) + f(n-2)` to find the Nth term.
-- ✅ Fibonacci Series: Implemented bottom-up iterative approach using an array to print the full sequence up to N.
-
-</details>
-
-<details>
-<summary><b>Day 12 — Basic Hashing (Arrays & Strings)</b></summary>
-
-- ✅ Number Hashing: Pre-computed frequencies into a fixed-size array to optimize $O(Q \times N)$ queries down to $O(1)$ fetches. 
-- ✅ String Hashing: Used ASCII auto-casting with a 256-size hash array to map and count character frequencies in $O(1)$ time.
-
-</details>
-<details>
-<summary><b>Day 13 — Hashing via STL Maps</b></summary>
-
-- ✅ Ordered Map (`std::map`): Frequency counting with $O(\log N)$ TC. Keys are stored in sorted order.
-- ✅ Unordered Map (`std::unordered_map`): Frequency counting with $O(1)$ average TC. *(Note: Flagged for Revision 🔄).*
-- ✅ Collision Theory: Notes on chaining, division method, and how hash indices handle overlapping remainders.
-
-</details>
-<details>
-<summary><b>Day W — 💀 SKIPPED (July 7, 2026)</b></summary>
-
-Another silent gap. 
-
-</details>
-
-<details>
-<summary><b>Day 14 — Basics Finished, Sorting Unlocked (Double Shift)</b></summary>
-
-- ✅ Selection Sort: Find minimum, swap with current index. *
-- ✅ Bubble Sort: Adjacent swapping to push max to the end, optimized with `didswap` flag for $O(N)$ best case.
-- ✅ Insertion Sort: Place element in its correct ordered position. 
-- 🔓 **Milestone:** "Learn the Basics" section officially 100% complete.
-- ✅ Merge Sort (Shift 2): Divide and conquer algorithm achieving $O(N \log N)$ time. Used a temporary array for the merge step, making space complexity $O(N)$. *(Note: Flagged by me for 3x revision - the recursion tree takes time to click).*
-
-</details>
-<details>
-<summary><b>Day 15 — LeetCode Revision Day (July 9)</b></summary>
-
-- 🧠 **Concept Consolidation:** Paused the Striver sheet to run raw LeetCode reps on previous topics to ensure actual retention, not just tutorial memory.
-- ✅ **Did Revision :** solved leetcode and revised the previous concepts
-- *Note: Overall sheet progress stays at 57/474, but the foundation is leveled up.*
-
-</details>
-<details>
-<summary><b>Day U — 💀 SKIPPED (July 10, 2026)</b></summary>
-
-Got sick.  Streak broken.
-
-</details>
-
-<details>
-<summary><b>Day T — 💀 SKIPPED (July 11, 2026)</b></summary>
-
-Still sick. Still zero commits. 
-
-</details>
-<details>
-<summary><b>Day 16 — Quick Sort (The Comeback)</b></summary>
-
-- ✅ Quick Sort: Implemented partition logic using the first element as pivot. $O(N \log N)$ TC, $O(1)$ auxiliary space. 
-- 🧠 **Daily Habit:** Maintained the new 1-hour LeetCode revision protocol.
-
-</details>
-<details>
-<summary><b>Day 17 — Arrays Unlocked: The Easy Tier</b></summary>
-
-- ✅ Largest Element: Linear scan.
-- ✅ Second Largest Element: Single-pass two-variable tracking to handle `INT_MIN` edge cases.
-- ✅ Check if Array is Sorted and Rotated: Brilliant modulo trick `(i+1)%n` to count sequence breaks.
-- ✅ Remove Duplicates: In-place two-pointer approach ($O(N)$ TC, $O(1)$ SC).
-- 🔓 **Milestone:** Officially broke into the Arrays section.
-
-</details>
-<details>
-<summary><b>Day 18 — Recursive Sorting (Cleaning the Plate)</b></summary>
-
-- ✅ Recursive Bubble Sort: Translated iterative logic into recursive stack calls. Maintained `didswap` flag for $O(N)$ best-case time complexity.
-- ✅ Recursive Insertion Sort: Shifted elements recursively. 
-- 🔓 **Milestone:** "Sorting Techniques" section officially 100% complete.
-
-</details>
-<details>
-<summary><b>Day 19 — Array Rotations (The Late Shift)</b></summary>
-
-- ✅ Rotate Array by One: Standard $O(N)$ linear shift using a single temp variable.
-- ✅ Rotate Array by K (Left & Right Brute Force): Handled modulo wrap-around `k = k % n` and extra memory allocation $O(K)$.
-- ✅ Rotate Array by K (Optimal): Implemented the $O(1)$ space reversal algorithm. `reverse(0, k)`, `reverse(k, n)`, `reverse(0, n)`.
-- 🛠️ **Code Quality Check:** Flagged an illegal Variable Length Array (`int temp[k]`) and safely migrated to `std::vector<int>`.
-
-</details>
-
-<details>
-<summary><b>Day 20 — Basic Arrays (Move Zeroes, Linear Search, Union, Intersection)</b></summary>
-
-- ✅ Move Zeroes (Brute + Optimal)
-- ✅ Linear Search
-- ✅ Union of 2 Sorted Arrays (Brute + Optimal)
-- ✅ Intersection of 2 Sorted Arrays
-
-</details>
-<details>
-<summary><b>Day 21 — Arrays Easy (Missing Num, Max Ones, Single Num)</b></summary>
-
-- ✅ Missing Number (Sort + XOR)
-- ✅ Max Consecutive Ones (Two approaches)
-- ✅ Single Number (Brute, Hash, XOR optimal)
-
-</details>
-<details>
-<summary><b>Day X — 💀 SKIPPED (July 18, 2026)</b></summary>
-
--NO CODE 
-</details>
-<details>
-<summary><b>Day 22 — Arrays (Longest Subarray with Sum K)</b></summary>
-
-- ✅ Longest Subarray with sum K (Prefix Sum Map)
-- ✅ Longest Subarray with sum K (Two Pointers)
-
-</details>
-<details>
-<summary><b>Day X & Y — 🔄 OFFLINE REVISION (July 20-21, 2026)</b></summary>
-
-Government jammed the local network for two days. Couldn't access the Striver sheet or push code. Instead of taking a vacation, I locked in offline and revised all previous arrays, sorting, and math concepts. No internet, no excuses. Streak survives in spirit.
-</details>
-
-<details>
-<summary><b>Day X & Y — Skipped (July 22-23, 2026)</b></summary>
-
-total waste of 48 hours. said i was gonna do an 8 hour shift and ended up doing absolutely nothing. taking the L publicly so i hold myself accountable. back to the sheet tomorrow.
-</details>
-<details>
-<summary><b>Day 23 — Arrays Medium (July 24, 2026)</b></summary>
-
-- ✅ Two Sum (Brute, Hashing, 2 Pointers)
-- ✅ Majority Element (Brute, Hashing, Moore's Voting Algo)
-- ✅ Sort 0, 1, 2 (Merge Sort, Counting, Dutch National Flag)
-
-</details>
-<details>
-<summary><b>Day 24 — Arrays Medium (July 25, 2026)</b></summary>
-
-- ✅ Maximum Subarray (Brute, Better, Kadane's Optimal)
-- ✅ Best Time to Buy and Sell Stock (Brute, Optimal)
-- ✅ Rearrange Array Elements by Sign - Var 1 (Brute, Optimal)
-
-</details>
-<details>
-<summary><b>Day R — Rest and Recovery (July 26, 2026)</b></summary>
-
-Sunday. Rest and recovery. Back to the sheet tomorrow.
-
-</details>
-<details>
-<summary><b>Day 25 — Arrays Medium (July 28, 2026)</b></summary>
-
-- ✅ Rearrange Array Elements by Sign - Var 2 (Unequal Pos/Neg Elements)
-
-</details>
-<details>
-<summary><b>Day Skipped — (July 29, 2026)</b></summary>
-
-No code. No commits.
-
-</details>
-
-<details>
-<summary><b>Day 26 — Arrays Medium (July 30, 2026)</b></summary>
-
-- ✅ Next Permutation (Brute, STL Better, Optimal Dip/Swap)
-- ✅ Leaders in an Array (Brute, Optimal Right-to-Left Scan)
-
-</details>
-<details>
-<summary><b>Day 27 — Arrays Medium (July 30, 2026)</b></summary>
-
-- ✅ Longest Consecutive Sequence (Brute, Better Sorting, Optimal HashSet) - Pushed through while sick.
-
-</details>
-<details>
-<summary><b>Day 28 — Arrays Medium (August 1, 2026)</b></summary>
-
-- ✅ Set Matrix Zeroes (Brute, Better, Optimal In-Place)
-
-</details>
-
-<details>
-<summary><b>Day R — Rest & Revise (August 2, 2026)</b></summary>
-
-Sunday. Scheduled rest and revision day.
-
-</details>
-<details>
-<summary><b>Day 29 — Arrays Medium (August 3, 2026)</b></summary>
-
-- ✅ Rotate Image by 90 Degrees (Brute Force, Optimal In-Place)
-
-</details>
-
----
-
-## 🛠️ Built With
-
-- **Language:** C++
-- **Editor:** Zed
-- **Curriculum:** [Striver A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
-- **Fuel:** Stubbornness ☕
-
----
-
-## 🎯 Why This Repo Exists
-
-Cuz it will also help me to improve my Git (SKILLMAXXING 💪).
-
-Most people *say* they're learning DSA. This repo is proof I actually am — daily commits, real code, real progress, zero fluff.
-
----
-
-*Last updated: Day 28*
