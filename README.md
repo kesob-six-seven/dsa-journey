@@ -7,7 +7,7 @@ I have pivoted to the **NeetCode 150**. The goal is no longer just completion; i
 
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-0%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-2%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -15,11 +15,11 @@ I have pivoted to the **NeetCode 150**. The goal is no longer just completion; i
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.3%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Arrays & Hashing | 🟡 Grinding | `0/9` |
+| Arrays & Hashing | 🟡 Grinding | `2/9` |
 | Two Pointers | ⬜ Locked | `0/5` |
 | Sliding Window | ⬜ Locked | `0/6` |
 | Stack | ⬜ Locked | `0/7` |
@@ -48,5 +48,13 @@ I have pivoted to the **NeetCode 150**. The goal is no longer just completion; i
 - Realized tutorial hell and massive problem lists don't build muscle memory.
 - Archived Striver A2Z progress.
 - Migrated tracking and focus strictly to NeetCode 150 for deeper pattern mastery.
+
+</details>
+
+<details>
+<summary><b>Day 31 — Arrays & Hashing (August 5, 2026)</b></summary>
+
+- ✅ Contains Duplicate (Optimal O(N) Hash Set)
+- ✅ Valid Anagram (Optimal O(N) Frequency Array)
 
 </details>
