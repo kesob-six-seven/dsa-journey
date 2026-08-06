@@ -1,13 +1,6 @@
-# 🚀 DSA Mastery Journey 
-
-Phase 1 was about building raw logic and foundations using Striver's A2Z. 
-**Phase 2 is about pattern recognition and interview readiness.** 
-
-I have pivoted to the **NeetCode 150**. The goal is no longer just completion; it is absolute mastery, muscle memory, and recognizing underlying patterns. (Past work is archived in `Phase1_Striver`).
-
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-2%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-4%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -15,11 +8,11 @@ I have pivoted to the **NeetCode 150**. The goal is no longer just completion; i
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.3%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.6%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Arrays & Hashing | 🟡 Grinding | `2/9` |
+| Arrays & Hashing | 🟡 Grinding | `4/9` |
 | Two Pointers | ⬜ Locked | `0/5` |
 | Sliding Window | ⬜ Locked | `0/6` |
 | Stack | ⬜ Locked | `0/7` |
@@ -56,5 +49,13 @@ I have pivoted to the **NeetCode 150**. The goal is no longer just completion; i
 
 - ✅ Contains Duplicate (Optimal O(N) Hash Set)
 - ✅ Valid Anagram (Optimal O(N) Frequency Array)
+
+</details>
+
+<details>
+<summary><b>Day 32 — Arrays & Hashing (August 6, 2026)</b></summary>
+
+- ✅ Two Sum (Optimal O(N) One-Pass Hash Map)
+- ✅ Group Anagrams (Optimal O(N * K log K) Hash Map with Sorting)
 
 </details>
