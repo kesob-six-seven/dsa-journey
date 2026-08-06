@@ -56,6 +56,6 @@
 <summary><b>Day 32 — Arrays & Hashing (August 6, 2026)</b></summary>
 
 - ✅ Two Sum (Optimal O(N) One-Pass Hash Map)
-- ✅ Group Anagrams (Optimal O(N * K log K) Hash Map with Sorting)
+- ✅ Group Anagrams (Highly Optimal O(N * K) Frequency String Key)
 
 </details>
