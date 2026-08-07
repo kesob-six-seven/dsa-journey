@@ -36,11 +36,18 @@
 ## 🪵 Daily Logs
 
 <details>
-<summary><b>Day 30 — The Pivot (August 4, 2026)</b></summary>
+<summary><b>Day 33 — Theory & Fundamentals (August 7, 2026)</b></summary>
 
-- Realized tutorial hell and massive problem lists don't build muscle memory.
-- Archived Striver A2Z progress.
-- Migrated tracking and focus strictly to NeetCode 150 for deeper pattern mastery.
+- Paused problem-solving to study underlying data structure theory for upcoming problems.
+- Building the conceptual foundation before attempting the code.
+
+</details>
+
+<details>
+<summary><b>Day 32 — Arrays & Hashing (August 6, 2026)</b></summary>
+
+- ✅ Two Sum (Optimal O(N) One-Pass Hash Map)
+- ✅ Group Anagrams (Highly Optimal O(N * K) Frequency String Key)
 
 </details>
 
@@ -53,9 +60,10 @@
 </details>
 
 <details>
-<summary><b>Day 32 — Arrays & Hashing (August 6, 2026)</b></summary>
+<summary><b>Day 30 — The Pivot (August 4, 2026)</b></summary>
 
-- ✅ Two Sum (Optimal O(N) One-Pass Hash Map)
-- ✅ Group Anagrams (Highly Optimal O(N * K) Frequency String Key)
+- Realized tutorial hell and massive problem lists don't build muscle memory.
+- Archived Striver A2Z progress.
+- Migrated tracking and focus strictly to NeetCode 150 for deeper pattern mastery.
 
 </details>
