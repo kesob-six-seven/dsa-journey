@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-4%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-5%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,11 +8,11 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.6%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3.3%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Arrays & Hashing | 🟡 Grinding | `4/9` |
+| Arrays & Hashing | 🟡 Grinding | `5/9` |
 | Two Pointers | ⬜ Locked | `0/5` |
 | Sliding Window | ⬜ Locked | `0/6` |
 | Stack | ⬜ Locked | `0/7` |
@@ -34,6 +34,20 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 35 — Arrays & Hashing (August 9, 2026)</b></summary>
+
+- ✅ Top K Frequent Elements (Documented O(NlogN) Sort, O(NlogK) Min-Heap, and Optimal O(N) Bucket Sort)
+
+</details>
+
+<details>
+<summary><b>Day 34 — Theory & Prerequisites (August 8, 2026)</b></summary>
+
+- Spent the day studying Priority Queues (Heaps) and Bucket Sort fundamentals to prepare for upcoming problems.
+
+</details>
 
 <details>
 <summary><b>Day 33 — Theory & Fundamentals (August 7, 2026)</b></summary>
