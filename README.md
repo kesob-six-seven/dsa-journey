@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 36 to 39 — The Python Pivot (August 10-13, 2026)</b></summary>
+
+- Paused NeetCode progression to heavily study Python fundamentals.
+- Transitioning interview language from C++ to Python for faster execution and cleaner syntax during technical rounds.
+- Mapped C++ STL concepts (vectors, unordered_maps, priority_queues) to Python equivalents (lists, dicts, heapq).
+
+</details>
+
+<details>
 <summary><b>Day 35 — Arrays & Hashing (August 9, 2026)</b></summary>
 
 - ✅ Top K Frequent Elements (Documented O(NlogN) Sort, O(NlogK) Min-Heap, and Optimal O(N) Bucket Sort)
