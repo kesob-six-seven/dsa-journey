@@ -36,6 +36,16 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 41 — DSA Fundamentals: Arrays (August 15, 2026)</b></summary>
+
+- Pivoted to NeetCode DSA for Beginners to solidify core mechanics in Python.
+- ✅ Max Consecutive Ones (Optimal $O(N)$ State Tracking)
+- ✅ Remove Element (Optimal $O(N)$ Two-Pointer In-Place)
+- ✅ Replace Elements With Greatest Element On Right Side (Optimal $O(N)$ Reverse Iteration)
+
+</details>
+
+<details>
 <summary><b>Day 40 — Python Finalization (August 14, 2026)</b></summary>
 
 - Consolidated all Python syntax, DSA-specific built-in functions, and data structures into a single revision cheatsheet.
