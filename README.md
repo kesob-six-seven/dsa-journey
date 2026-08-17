@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 42 — Arrays & Stacks (August 16, 2026)</b></summary>
+
+- Continued the DSA Fundamentals sprint.
+- ✅ Concatenation of Array (Optimal O(N) List Concatenation)
+- ✅ Baseball Game (Optimal O(N) Stack Implementation)
+
+</details>
+
+<details>
 <summary><b>Day 41 — DSA Fundamentals: Arrays (August 15, 2026)</b></summary>
 
 - Pivoted to NeetCode DSA for Beginners to solidify core mechanics in Python.
