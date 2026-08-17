@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 43 — DSA Fundamentals: Stacks (August 17, 2026)</b></summary>
+
+- Continued the DSA Fundamentals sprint with Core Stack concepts.
+- ✅ Valid Parentheses (Optimal O(N) Hash Map + Stack)
+- ✅ Min Stack (Optimal O(1) Two-Stack Design)
+
+</details>
+
+<details>
 <summary><b>Day 42 — Arrays & Stacks (August 16, 2026)</b></summary>
 
 - Continued the DSA Fundamentals sprint.
