@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 44 — DSA Fundamentals: Linked Lists & Queues (August 18, 2026)</b></summary>
+
+- Mastered the underlying architecture of Singly Linked Lists, Doubly Linked Lists, and Queues.
+- Focused strictly on pointer mechanics and node implementation. 
+- Deliberately deferred advanced suggested problems to maintain focus on core structural fundamentals.
+
+</details>
+
+<details>
 <summary><b>Day 43 — DSA Fundamentals: Stacks (August 17, 2026)</b></summary>
 
 - Continued the DSA Fundamentals sprint with Core Stack concepts.
