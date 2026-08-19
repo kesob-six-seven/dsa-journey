@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 45 — DSA Fundamentals: Recursion & Sorting (August 19, 2026)</b></summary>
+
+- Mastered the core theory of Recursion (Call Stack, Factorial, Fibonacci).
+- Implemented core Sorting Algorithms in Python: Insertion Sort, Merge Sort, Quick Sort, and Bucket Sort.
+- Deepened understanding of Divide and Conquer architectures.
+
+</details>
+
+<details>
 <summary><b>Day 44 — DSA Fundamentals: Linked Lists & Queues (August 18, 2026)</b></summary>
 
 - Mastered the underlying architecture of Singly Linked Lists, Doubly Linked Lists, and Queues.
