@@ -36,6 +36,16 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 46 — DSA Fundamentals: Binary Search & Trees (August 20, 2026)</b></summary>
+
+- ✅ Search Array (Binary Search on sorted array)
+- ✅ Search Range (Binary Search on a value range)
+- ✅ Binary Tree (TreeNode structure)
+- ✅ Binary Search Tree (Recursive search)
+
+</details>
+
+<details>
 <summary><b>Day 45 — DSA Fundamentals: Recursion & Sorting (August 19, 2026)</b></summary>
 
 - Mastered the core theory of Recursion (Call Stack, Factorial, Fibonacci).
