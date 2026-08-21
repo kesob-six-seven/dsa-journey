@@ -87,18 +87,7 @@ def binary_search_range(low, high):
 
 
 def is_correct(n):
-    """
-    THEORY & INTUITION:
-    A stand-in "oracle" function representing whatever condition you're
-    binary searching for. Here it simply checks n against a hardcoded
-    target (10), but in real problems this could be any monotonic
-    check (e.g. "can I finish the task in n days?").
-
-    Returns 1 if n is too big, -1 if too small, 0 if exactly correct.
-
-    Time Complexity  (TC): O(1) — constant-time comparison.
-    Space Complexity (SC): O(1).
-    """
+    
     if n > 10:
         return 1
     elif n < 10:
