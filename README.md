@@ -36,6 +36,16 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 48 — DSA Fundamentals: Tree Maze & Heap / Priority Queue (August 22, 2026)</b></summary>
+
+- ✅ Tree Maze (Recursive DFS backtracking, wall = 0-value node)
+- ✅ Heap Properties (Array-based min-heap index math)
+- ✅ Push and Pop (Percolate up/down on array-based min-heap)
+- ✅ Heapify (Bottom-up O(N) heap construction)
+
+</details>
+
+<details>
 <summary><b>Day 47 — DSA Fundamentals: BST Insert/Delete, DFS & BFS (August 21, 2026)</b></summary>
 
 - ✅ Insert into a Binary Search Tree (LC 701 — Recursive positional insert)
