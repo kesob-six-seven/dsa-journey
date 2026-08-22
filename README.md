@@ -36,6 +36,17 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 47 — DSA Fundamentals: BST Insert/Delete, DFS & BFS (August 21, 2026)</b></summary>
+
+- ✅ Insert into a Binary Search Tree (LC 701 — Recursive positional insert)
+- ✅ Delete Node in a BST (LC 450 — Inorder successor replacement)
+- ✅ Binary Tree Inorder Traversal (LC 94 — Recursive DFS)
+- ✅ Binary Tree Level Order Traversal (LC 102 — BFS with queue)
+- ✅ BST Sets and Maps (Conceptual: ordered BST-backed vs. hash-based structures)
+
+</details>
+
+<details>
 <summary><b>Day 46 — DSA Fundamentals: Binary Search & Trees (August 20, 2026)</b></summary>
 
 - ✅ Search Array (Binary Search on sorted array)
