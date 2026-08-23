@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 49 — Rest & Recovery (August 23, 2026)</b></summary>
+
+- Deliberate rest day. No new problems solved.
+- Recovery is part of the process — back at it next session.
+
+</details>
+
+
+<details>
 <summary><b>Day 48 — DSA Fundamentals: Tree Maze & Heap / Priority Queue (August 22, 2026)</b></summary>
 
 - ✅ Tree Maze (Recursive DFS backtracking, wall = 0-value node)
