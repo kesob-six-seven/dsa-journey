@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 50 — DSA Fundamentals: Hashing & Intro to Graphs (August 24, 2026)</b></summary>
+
+- ✅ Hash Usage (Frequency counting with built-in dict)
+- ✅ Hash Implementation (Custom HashMap — open addressing, linear probing, rehash)
+- ✅ Intro to Graphs (Matrix, Adjacency Matrix, Adjacency List representations)
+
+</details>
+
+<details>
 <summary><b>Day 49 — Rest & Recovery (August 23, 2026)</b></summary>
 
 - Deliberate rest day. No new problems solved.
