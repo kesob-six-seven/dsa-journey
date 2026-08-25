@@ -36,6 +36,14 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 51 — DSA Fundamentals: Matrix DFS & BFS (August 25, 2026)</b></summary>
+
+- ✅ Matrix DFS (Backtracking — count all valid paths, visit/unvisit pattern)
+- ✅ Matrix BFS (Level-order queue — shortest path guarantee)
+
+</details>
+
+<details>
 <summary><b>Day 50 — DSA Fundamentals: Hashing & Intro to Graphs (August 24, 2026)</b></summary>
 
 - ✅ Hash Usage (Frequency counting with built-in dict)
