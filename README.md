@@ -36,6 +36,16 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 52 — NeetCode 150: C++ → Python Migration (August 26, 2026)</b></summary>
+
+- ✅ Contains Duplicate (Revisited — ported from C++ to Python)
+- ✅ Valid Anagram (Revisited — ported from C++ to Python)
+- ✅ Two Sum (Revisited — ported from C++ to Python)
+- ✅ Group Anagrams (Revisited — ported from C++ to Python)
+
+</details>
+
+<details>
 <summary><b>Day 51 — DSA Fundamentals: Matrix DFS & BFS (August 25, 2026)</b></summary>
 
 - ✅ Matrix DFS (Backtracking — count all valid paths, visit/unvisit pattern)
