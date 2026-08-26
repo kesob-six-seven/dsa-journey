@@ -36,12 +36,12 @@
 ## 🪵 Daily Logs
 
 <details>
-<summary><b>Day 52 — NeetCode 150: C++ → Python Migration (August 26, 2026)</b></summary>
+<summary><b>Day 52 — Arrays & Hashing: Re-solved in Python (August 26, 2026)</b></summary>
 
-- ✅ Contains Duplicate (Revisited — ported from C++ to Python)
-- ✅ Valid Anagram (Revisited — ported from C++ to Python)
-- ✅ Two Sum (Revisited — ported from C++ to Python)
-- ✅ Group Anagrams (Revisited — ported from C++ to Python)
+- ✅ Contains Duplicate (Hash Set)
+- ✅ Valid Anagram (Frequency Count)
+- ✅ Two Sum (One-Pass Hash Map)
+- ✅ Group Anagrams (Frequency Tuple Key)
 
 </details>
 
