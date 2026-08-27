@@ -36,6 +36,13 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 53 — Arrays & Hashing (August 27, 2026)</b></summary>
+
+- ✅ Top K Frequent Elements (Bucket Sort — O(N))
+
+</details>
+
+<details>
 <summary><b>Day 52 — Arrays & Hashing: Re-solved in Python (August 26, 2026)</b></summary>
 
 - ✅ Contains Duplicate (Hash Set)
