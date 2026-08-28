@@ -34,6 +34,14 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 54 — DSA Fundamentals: Graphs — Adjacency List (August 28, 2026)</b></summary>
+
+- ✅ Adjacency List (GraphNode class + dict-based build from edge list)
+- ✅ Graph DFS (Backtracking — count all paths)
+- ✅ Graph BFS (Level-order — shortest path)
+
+</details>
 
 <details>
 <summary><b>Day 53 — Arrays & Hashing (August 27, 2026)</b></summary>
