@@ -34,6 +34,14 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 55 — Arrays & Hashing (August 29, 2026)</b></summary>
+
+- ✅ Encode and Decode Strings (Length-prefix delimiter)
+
+</details>
+
 <details>
 <summary><b>Day 54 — DSA Fundamentals: Graphs — Adjacency List (August 28, 2026)</b></summary>
 
