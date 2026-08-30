@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-5%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-7%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,11 +8,11 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3.3%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Arrays & Hashing | 🟡 Grinding | `5/9` |
+| Arrays & Hashing | 🟡 Grinding | `7/9` |
 | Two Pointers | ⬜ Locked | `0/5` |
 | Sliding Window | ⬜ Locked | `0/6` |
 | Stack | ⬜ Locked | `0/7` |
