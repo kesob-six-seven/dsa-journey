@@ -36,6 +36,13 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 56 — Arrays & Hashing (August 30, 2026)</b></summary>
+
+- ✅ Product of Array Except Self (Prefix & Postfix — O(N))
+
+</details>
+
+<details>
 <summary><b>Day 55 — Arrays & Hashing (August 29, 2026)</b></summary>
 
 - ✅ Encode and Decode Strings (Length-prefix delimiter)
