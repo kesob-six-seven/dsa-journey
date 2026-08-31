@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-7%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-10%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,12 +8,12 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.7%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
-| Arrays & Hashing | 🟡 Grinding | `7/9` |
-| Two Pointers | ⬜ Locked | `0/5` |
+| Arrays & Hashing | ✅ Done | `9/9` |
+| Two Pointers     | 🟡 Grinding | `1/5` |
 | Sliding Window | ⬜ Locked | `0/6` |
 | Stack | ⬜ Locked | `0/7` |
 | Binary Search | ⬜ Locked | `0/7` |
@@ -34,6 +34,14 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 57 — Arrays & Hashing Complete + Two Pointers (August 31, 2026)</b></summary>
+
+- ✅ Valid Sudoku (Row/Col/Box Hash Sets)
+- ✅ Longest Consecutive Sequence (O(N) Set — start of sequence trick)
+- ✅ Valid Palindrome (Two Pointers + alphaNum check)
+
+</details>
 
 <details>
 <summary><b>Day 56 — Arrays & Hashing (August 30, 2026)</b></summary>
