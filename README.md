@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-10%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-13%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,12 +8,12 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.7%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
-| Two Pointers     | 🟡 Grinding | `1/5` |
+| Two Pointers | ✅ Done | `4/5` |
 | Sliding Window | ⬜ Locked | `0/6` |
 | Stack | ⬜ Locked | `0/7` |
 | Binary Search | ⬜ Locked | `0/7` |
@@ -34,7 +34,16 @@
 ---
 
 ## 🪵 Daily Logs
+
 <details>
+<summary><b>Day 58 — Two Pointers (September 1, 2026)</b></summary>
+
+- ✅ Two Sum II (Two Pointers on sorted array)
+- ✅ 3Sum (Sort + Fix + Two Pointers)
+- ✅ Container With Most Water (Greedy Two Pointers)
+
+</details>
+
 <summary><b>Day 57 — Arrays & Hashing Complete + Two Pointers (August 31, 2026)</b></summary>
 
 - ✅ Valid Sudoku (Row/Col/Box Hash Sets)
