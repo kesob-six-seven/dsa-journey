@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-13%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-16%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,13 +8,13 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.7%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
-| Two Pointers | ✅ Done | `4/5` |
-| Sliding Window | ⬜ Locked | `0/6` |
+| Two Pointers | ✅ Done | `5/5` |
+| Stack        | 🟡 Grinding | `3/7` |
 | Stack | ⬜ Locked | `0/7` |
 | Binary Search | ⬜ Locked | `0/7` |
 | Linked List | ⬜ Locked | `0/11` |
@@ -36,6 +36,15 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 59 — Stack (September 2, 2026)</b></summary>
+
+- ✅ Valid Parentheses (Stack + closing bracket map)
+- ✅ Min Stack (Parallel min-tracking stack)
+- ✅ Trapping Rain Water (Two Pointers — Hard)
+
+</details>
+
+<details>
 <summary><b>Day 58 — Two Pointers (September 1, 2026)</b></summary>
 
 - ✅ Two Sum II (Two Pointers on sorted array)
@@ -43,7 +52,7 @@
 - ✅ Container With Most Water (Greedy Two Pointers)
 
 </details>
-
+<details>
 <summary><b>Day 57 — Arrays & Hashing Complete + Two Pointers (August 31, 2026)</b></summary>
 
 - ✅ Valid Sudoku (Row/Col/Box Hash Sets)
