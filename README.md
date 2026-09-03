@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-16%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-18%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,14 +8,14 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.7%`
+`[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
-| Stack        | 🟡 Grinding | `3/7` |
-| Stack | ⬜ Locked | `0/7` |
+| Sliding Window | 🟡 Grinding | `2/6` |
+| Stack          | 🟡 Grinding | `3/7` |
 | Binary Search | ⬜ Locked | `0/7` |
 | Linked List | ⬜ Locked | `0/11` |
 | Trees | ⬜ Locked | `0/15` |
@@ -34,6 +34,14 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 60 — Sliding Window (September 3, 2026)</b></summary>
+
+- ✅ Best Time to Buy and Sell Stock (Two Pointers — sliding window)
+- ✅ Longest Substring Without Repeating Characters (Set-based sliding window)
+
+</details>
 
 <details>
 <summary><b>Day 59 — Stack (September 2, 2026)</b></summary>
