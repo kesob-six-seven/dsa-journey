@@ -34,6 +34,12 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 61 — Rest & Recovery (September 4, 2026)</b></summary>
+
+- Deliberate rest day. Back at it tomorrow.
+
+</details>
 
 <details>
 <summary><b>Day 60 — Sliding Window (September 3, 2026)</b></summary>
