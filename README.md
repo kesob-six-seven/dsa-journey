@@ -34,6 +34,14 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 62 — Sliding Window (September 5, 2026)</b></summary>
+
+- ✅ Longest Repeating Character Replacement (Sliding window + frequency map)
+
+</details>
+
 <details>
 <summary><b>Day 61 — Rest & Recovery (September 4, 2026)</b></summary>
 
