@@ -1,6 +1,6 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-18%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-21%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
@@ -8,14 +8,14 @@
 
 ## 🗺️ The Roadmap (NeetCode 150)
 
-`[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%`
+``[████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 14%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
-| Sliding Window | 🟡 Grinding | `2/6` |
-| Stack          | 🟡 Grinding | `3/7` |
+| Sliding Window | 🟡 Grinding | `5/6` |
+| Stack          | 🟡 Grinding | `2/7` ||
 | Binary Search | ⬜ Locked | `0/7` |
 | Linked List | ⬜ Locked | `0/11` |
 | Trees | ⬜ Locked | `0/15` |
@@ -34,6 +34,14 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 63 — Sliding Window (September 6, 2026)</b></summary>
+
+- ✅ Permutation in String (Fixed window + 26-char match counter)
+- ✅ Minimum Window Substring (Expand/shrink window — Hard)
+
+</details>
 
 <details>
 <summary><b>Day 62 — Sliding Window (September 5, 2026)</b></summary>
