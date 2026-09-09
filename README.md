@@ -1,21 +1,20 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-24%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-28%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-
-`[█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 16%`
+`[███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.7%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
-| Sliding Window | ✅ Done     | `6/6` |
-| Stack          | 🟡 Grinding | `2/7` |
+| Stack         | ✅ Done     | `6/6` |
+| Binary Search | 🟡 Grinding | `2/7` |
 | Binary Search | ⬜ Locked | `0/7` |
 | Linked List | ⬜ Locked | `0/11` |
 | Trees | ⬜ Locked | `0/15` |
@@ -34,6 +33,15 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 66 — Stack Complete + Binary Search (September 9, 2026)</b></summary>
+
+- ✅ Car Fleet (Monotonic stack — time to target)
+- ✅ Largest Rectangle in Histogram (Monotonic stack — Hard)
+- ✅ Binary Search (Classic binary search)
+- ✅ Search a 2D Matrix (Binary search on flattened matrix)
+
+</details>
 
 <details>
 <summary><b>Day 64 — Sliding Window Complete (September 7, 2026)</b></summary>
