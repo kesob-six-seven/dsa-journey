@@ -1,20 +1,20 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-28%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-32%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.7%`
+`[█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21.3%`
 
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
 | Stack         | ✅ Done     | `6/6` |
-| Binary Search | 🟡 Grinding | `2/7` |
+| Binary Search | 🟡 Grinding | `6/7` |
 | Binary Search | ⬜ Locked | `0/7` |
 | Linked List | ⬜ Locked | `0/11` |
 | Trees | ⬜ Locked | `0/15` |
@@ -33,6 +33,16 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 67 — Binary Search (September 10, 2026)</b></summary>
+
+- ✅ Koko Eating Bananas (Binary search on answer space)
+- ✅ Find Minimum in Rotated Sorted Array (Binary search — sorted half logic)
+- ✅ Search in Rotated Sorted Array (Binary search — sorted half logic)
+- ✅ Time Based Key Value Store (Binary search on timestamps)
+
+</details>
 <details>
 <summary><b>Day 66 — Stack Complete + Binary Search (September 9, 2026)</b></summary>
 
