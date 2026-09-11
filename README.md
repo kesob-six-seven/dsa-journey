@@ -1,21 +1,20 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-32%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-35%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21.3%`
-
+`[███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 23.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
 | Stack         | ✅ Done     | `6/6` |
-| Binary Search | 🟡 Grinding | `6/7` |
-| Binary Search | ⬜ Locked | `0/7` |
+| Binary Search | ✅ Done     | `6/7` |
+| Linked List   | 🟡 Grinding | `3/11`|
 | Linked List | ⬜ Locked | `0/11` |
 | Trees | ⬜ Locked | `0/15` |
 | Tries | ⬜ Locked | `0/3` |
@@ -33,6 +32,15 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 68 — Linked List (September 11, 2026)</b></summary>
+
+- ✅ Reverse Linked List (Iterative prev/curr pointers)
+- ✅ Merge Two Sorted Lists (Dummy node + merge)
+- ✅ Linked List Cycle (Floyd's slow/fast pointers)
+
+</details>
 
 <details>
 <summary><b>Day 67 — Binary Search (September 10, 2026)</b></summary>
