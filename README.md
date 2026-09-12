@@ -34,6 +34,13 @@
 ## 🪵 Daily Logs
 
 <details>
+<summary><b>Day 69 — Rest & Recovery (September 12, 2026)</b></summary>
+
+- Deliberate rest day. Contest tomorrow.
+
+</details>
+
+<details>
 <summary><b>Day 68 — Linked List (September 11, 2026)</b></summary>
 
 - ✅ Reverse Linked List (Iterative prev/curr pointers)
