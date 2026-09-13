@@ -1,21 +1,20 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-35%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-38%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 23.3%`
+`[████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 25.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
 | Stack         | ✅ Done     | `6/6` |
 | Binary Search | ✅ Done     | `6/7` |
-| Linked List   | 🟡 Grinding | `3/11`|
-| Linked List | ⬜ Locked | `0/11` |
+| Linked List | 🟡 Grinding | `6/11` |
 | Trees | ⬜ Locked | `0/15` |
 | Tries | ⬜ Locked | `0/3` |
 | Heap / Priority Queue | ⬜ Locked | `0/7` |
@@ -32,7 +31,14 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 70 — Linked List (September 13, 2026)</b></summary>
 
+- ✅ Reorder List (Find middle + reverse + merge)
+- ✅ Remove Nth Node From End (Two pointer gap trick)
+- ✅ Copy List With Random Pointer (Hash map old -> new)
+
+</details>
 <details>
 <summary><b>Day 69 — Rest & Recovery (September 12, 2026)</b></summary>
 
