@@ -1,19 +1,19 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-41%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-42%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[██████████████████████░░░░░░░░░░░░░░░░░░░░░░░] 27.3%`
+`[██████████████████████░░░░░░░░░░░░░░░░░░░░░░░] 28%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
 | Two Pointers | ✅ Done | `5/5` |
 | Stack         | ✅ Done     | `6/6` |
-| Binary Search | ✅ Not Done     | `6/7` |
+| Binary Search | ✅ Done     | `7/7` |
 | Linked List | 🟡 Grinding | `9/11` |
 | Trees | ⬜ Locked | `0/15` |
 | Tries | ⬜ Locked | `0/3` |
@@ -31,6 +31,12 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 72 — Binary Search (September 15, 2026)</b></summary>
+
+- ✅ Median of Two Sorted Arrays (Recursive k-th element elimination — Hard)
+
+</details>
 <details>
 <summary><b>Day 71 — Linked List (September 14, 2026)</b></summary>
 
