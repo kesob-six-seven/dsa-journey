@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-44%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-50%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[████████████████████████░░░░░░░░░░░░░░░░░░░░░] 29.3%`
+`[███████████████████████████░░░░░░░░░░░░░░░░░░] 33.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -15,7 +15,7 @@
 | Stack         | ✅ Done     | `6/6` |
 | Binary Search | ✅ Done     | `7/7` |
 | Linked List | ✅ Done     | `11/11` |
-| Trees       | ⬜ Locked   | `0/15`  |
+| Trees | 🟡 Grinding | `6/15` |
 | Tries | ⬜ Locked | `0/3` |
 | Heap / Priority Queue | ⬜ Locked | `0/7` |
 | Backtracking | ⬜ Locked | `0/9` |
@@ -31,6 +31,17 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 74 — Trees (September 17, 2026)</b></summary>
+
+- ✅ Invert Binary Tree (Recursive swap)
+- ✅ Maximum Depth of Binary Tree (Recursive DFS)
+- ✅ Diameter of Binary Tree (DFS — left + right height)
+- ✅ Balanced Binary Tree (DFS — early -1 exit)
+- ✅ Same Tree (Recursive comparison)
+- ✅ Subtree of Another Tree (DFS + isSameTree)
+
+</details>
 <details>
 <summary><b>Day 73 — Linked List Complete (September 16, 2026)</b></summary>
 
