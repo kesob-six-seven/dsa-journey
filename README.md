@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-56%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-59%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[██████████████████████████████░░░░░░░░░░░░░░░] 37.3%`
+`[████████████████████████████████░░░░░░░░░░░░░] 39.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -15,8 +15,8 @@
 | Stack         | ✅ Done     | `6/6` |
 | Binary Search | ✅ Done     | `7/7` |
 | Linked List | ✅ Done     | `11/11` |
-| Trees | 🟡 Grinding | `12/15` |
-| Tries | ⬜ Locked | `0/3` |
+| Trees | ✅ Done     | `15/15` |
+| Tries | ⬜ Locked   | `0/3`   |
 | Heap / Priority Queue | ⬜ Locked | `0/7` |
 | Backtracking | ⬜ Locked | `0/9` |
 | Graphs | ⬜ Locked | `0/13` |
@@ -31,7 +31,14 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 77 — Trees Complete (September 21, 2026)</b></summary>
 
+- ✅ Construct Binary Tree from Preorder and Inorder (Array slicing recursion)
+- ✅ Binary Tree Maximum Path Sum (DFS — global max, Hard)
+- ✅ Serialize and Deserialize Binary Tree (BFS encode/decode, Hard)
+
+</details>
 <details>
 <summary><b>Day 76 — Trees (September 20, 2026)</b></summary>
 
