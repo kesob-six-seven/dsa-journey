@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-59%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-61%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[████████████████████████████████░░░░░░░░░░░░░] 39.3%`
+`[█████████████████████████████████░░░░░░░░░░░░] 40.7%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -16,8 +16,8 @@
 | Binary Search | ✅ Done     | `7/7` |
 | Linked List | ✅ Done     | `11/11` |
 | Trees | ✅ Done     | `15/15` |
-| Tries | ⬜ Locked   | `0/3`   |
-| Heap / Priority Queue | ⬜ Locked | `0/7` |
+| Tries | ⬜ Locked          | `0/3` |
+| Heap  | 🟡 Grinding        | `2/7` |
 | Backtracking | ⬜ Locked | `0/9` |
 | Graphs | ⬜ Locked | `0/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
@@ -31,6 +31,14 @@
 ---
 
 ## 🪵 Daily Logs
+
+<details>
+<summary><b>Day 78 — Heap / Priority Queue (September 22, 2026)</b></summary>
+
+- ✅ Kth Largest Element in a Stream (Min heap of size k)
+- ✅ Last Stone Weight (Max heap via negation)
+
+</details>
 <details>
 <summary><b>Day 77 — Trees Complete (September 21, 2026)</b></summary>
 
