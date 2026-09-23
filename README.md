@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-61%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-62%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[█████████████████████████████████░░░░░░░░░░░░] 40.7%`
+`[██████████████████████████████████░░░░░░░░░░░] 41.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -17,7 +17,7 @@
 | Linked List | ✅ Done     | `11/11` |
 | Trees | ✅ Done     | `15/15` |
 | Tries | ⬜ Locked          | `0/3` |
-| Heap  | 🟡 Grinding        | `2/7` |
+| Heap  | 🟡 Grinding        | `3/7` |
 | Backtracking | ⬜ Locked | `0/9` |
 | Graphs | ⬜ Locked | `0/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
@@ -31,6 +31,12 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 79 — Heap / Priority Queue (September 23, 2026)</b></summary>
+
+- ✅ K Closest Points to Origin (Min heap by distance)
+
+</details>
 
 <details>
 <summary><b>Day 78 — Heap / Priority Queue (September 22, 2026)</b></summary>
