@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-63%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-65%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[██████████████████████████████████░░░░░░░░░░░] 42%`
+`[███████████████████████████████████░░░░░░░░░░] 43.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -17,7 +17,7 @@
 | Linked List | ✅ Done     | `11/11` |
 | Trees | ✅ Done     | `15/15` |
 | Tries | ⬜ Locked          | `0/3` |
-| Heap | 🟡 Grinding | `4/7` |
+| Heap | 🟡 Grinding | `5/7` |
 | Backtracking | ⬜ Locked | `0/9` |
 | Graphs | ⬜ Locked | `0/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
@@ -31,6 +31,13 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 81 — Heap / Priority Queue (September 25, 2026)</b></summary>
+
+- Revised previous problems ahead of exam.
+- ✅ Task Scheduler (Max heap + cooldown queue)
+
+</details>
 <details>
 <summary><b>Day 80 — Heap / Priority Queue (September 24, 2026)</b></summary>
 
