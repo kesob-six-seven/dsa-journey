@@ -32,6 +32,12 @@
 
 ## 🪵 Daily Logs
 <details>
+<summary><b>Day 82 — Rest & Recovery (September 26, 2026)</b></summary>
+
+- Exams done. Full rest day. Contest tomorrow.
+
+</details>
+<details>
 <summary><b>Day 81 — Heap / Priority Queue (September 25, 2026)</b></summary>
 
 - Revised previous problems ahead of exam.
