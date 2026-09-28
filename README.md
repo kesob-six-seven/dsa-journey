@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-66%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-67%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[████████████████████████████████████░░░░░░░░░] 44%`
+`[████████████████████████████████████░░░░░░░░░] 44.7%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -17,8 +17,8 @@
 | Linked List | ✅ Done     | `11/11` |
 | Trees | ✅ Done     | `15/15` |
 | Tries | ⬜ Locked          | `0/3` |
-| Heap | 🟡 Grinding | `6/7` |
-| Backtracking | ⬜ Locked | `0/9` |
+| Heap        | ✅ Done     | `7/7`  |
+| Backtracking| ⬜ Locked   | `0/9`  |
 | Graphs | ⬜ Locked | `0/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
 | 1-D Dynamic Programming | ⬜ Locked | `0/12` |
@@ -31,6 +31,12 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 84 — Heap / Priority Queue Complete (September 28, 2026)</b></summary>
+
+- ✅ Find Median from Data Stream (Two heaps — Hard)
+
+</details>
 <details>
 <summary><b>Day 83 — Heap / Priority Queue Complete (September 27, 2026)</b></summary>
 
