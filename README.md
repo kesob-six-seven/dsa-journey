@@ -32,6 +32,12 @@
 
 ## 🪵 Daily Logs
 <details>
+<summary><b>Day 85 — Rest (September 29, 2026)</b></summary>
+
+- Unplanned rest day.
+
+</details>
+<details>
 <summary><b>Day 84 — Heap / Priority Queue Complete (September 28, 2026)</b></summary>
 
 - ✅ Find Median from Data Stream (Two heaps — Hard)
