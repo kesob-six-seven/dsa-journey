@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-75%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-77%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[█████████████████████████████████████████░░░░] 50%`
+`[███████████████████████████████████████████░░░] 51%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -18,7 +18,7 @@
 | Trees | ✅ Done     | `15/15` |
 | Tries | ⬜ Locked          | `0/3` |
 | Heap        | ✅ Done     | `7/7`  |
-| Backtracking | 🟡 Grinding | `8/10` |
+| Backtracking | ✅ Done | `10/10` |
 | Graphs | ⬜ Locked | `0/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
 | 1-D Dynamic Programming | ⬜ Locked | `0/12` |
@@ -31,6 +31,12 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 88 — Backtracking Final (October 2, 2026)</b></summary>
+
+- ✅ Letter Combinations of a Phone Number (DFS — mapping digits to chars)
+- ✅ N-Queens (DFS — tracking cols, pos/neg diagonals)
+</details>
 <details>
 <summary><b>Day 87 — Backtracking (October 1, 2026)</b></summary>
 
