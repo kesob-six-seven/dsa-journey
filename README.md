@@ -32,6 +32,12 @@
 
 ## 🪵 Daily Logs
 <details>
+<summary><b>Day 90 — Rest & Recovery (October 4, 2026)</b></summary>
+
+- Sunday rest day.
+
+</details>
+<details>
 <summary><b>Day 88 — Backtracking Final (October 2, 2026)</b></summary>
 
 - ✅ Letter Combinations of a Phone Number (DFS — mapping digits to chars)
