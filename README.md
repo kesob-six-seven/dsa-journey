@@ -32,6 +32,13 @@
 
 ## 🪵 Daily Logs
 <details>
+<summary><b>Day 91 — Graphs (October 5, 2026)</b></summary>
+
+- ✅ Number of Islands (DFS — sink visited land)
+
+</details>
+
+<details>
 <summary><b>Day 90 — Rest & Recovery (October 4, 2026)</b></summary>
 
 - Sunday rest day.
