@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-81%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-83%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[████████████████████████░░░░░░░░░░░░░░░░░░░░░] 54%`
+`[█████████████████████████░░░░░░░░░░░░░░░░░░░░] 55.3%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -19,7 +19,7 @@
 | Tries | ✅ Done           | `3/3` |
 | Heap        | ✅ Done     | `7/7`  |
 | Backtracking | ✅ Done | `10/10` |
-| Graphs | 🟡 Grinding | `1/13` |
+| Graphs | 🟡 Grinding | `3/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
 | 1-D Dynamic Programming | ⬜ Locked | `0/12` |
 | 2-D Dynamic Programming | ⬜ Locked | `0/11` |
@@ -31,6 +31,13 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 92 — Graphs (October 7, 2026)</b></summary>
+
+- ✅ Max Area of Island (DFS — sink and count)
+- ✅ Clone Graph (BFS + hash map old->new)
+
+</details>
 <details>
 <summary><b>Day 91 — Graphs (October 5, 2026)</b></summary>
 
