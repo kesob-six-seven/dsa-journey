@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-83%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-84%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[█████████████████████████░░░░░░░░░░░░░░░░░░░░] 55.3%`
+`[█████████████████████████░░░░░░░░░░░░░░░░░░░░] 56%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -19,7 +19,7 @@
 | Tries | ✅ Done           | `3/3` |
 | Heap        | ✅ Done     | `7/7`  |
 | Backtracking | ✅ Done | `10/10` |
-| Graphs | 🟡 Grinding | `3/13` |
+| Graphs | 🟡 Grinding | `4/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
 | 1-D Dynamic Programming | ⬜ Locked | `0/12` |
 | 2-D Dynamic Programming | ⬜ Locked | `0/11` |
@@ -31,6 +31,12 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 93 — Graphs (October 8, 2026)</b></summary>
+
+- ✅ Rotting Oranges (Multi-source BFS)
+
+</details>
 <details>
 <summary><b>Day 92 — Graphs (October 7, 2026)</b></summary>
 
