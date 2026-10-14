@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-89%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-88%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[███████████████████████████░░░░░░░░░░░░░░░░░░] 59.3%`
+`[███████████████████████████░░░░░░░░░░░░░░░░░░] 58.7%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -19,7 +19,7 @@
 | Tries | ✅ Done           | `3/3` |
 | Heap        | ✅ Done     | `7/7`  |
 | Backtracking | ✅ Done | `10/10` |
-| Graphs | 🟡 Grinding | `9/13` |
+| Graphs | 🟡 Grinding | `11/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
 | 1-D Dynamic Programming | ⬜ Locked | `0/12` |
 | 2-D Dynamic Programming | ⬜ Locked | `0/11` |
@@ -31,6 +31,13 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 98 — Graphs (October 14, 2026)</b></summary>
+
+- ✅ Graph Valid Tree (Union-Find — cycle detection)
+- ✅ Number of Connected Components (Union-Find — component count)
+
+</details>
 <details><summary><b>Day 97 — Graphs (October 12, 2026)</b></summary>
 
 - ✅ Course Schedule (DFS Cycle Detection with backtracking visit set)
