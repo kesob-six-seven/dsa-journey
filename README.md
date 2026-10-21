@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-88%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-90%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[███████████████████████████░░░░░░░░░░░░░░░░░░] 58.7%`
+`[████████████████████████████░░░░░░░░░░░░░░░░░] 60%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -19,7 +19,7 @@
 | Tries | ✅ Done           | `3/3` |
 | Heap        | ✅ Done     | `7/7`  |
 | Backtracking | ✅ Done | `10/10` |
-| Graphs | 🟡 Grinding | `11/13` |
+| Graphs | ✅ Done   | `13/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
 | 1-D Dynamic Programming | ⬜ Locked | `0/12` |
 | 2-D Dynamic Programming | ⬜ Locked | `0/11` |
@@ -31,6 +31,13 @@
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 99 — Graphs (October 21, 2026)</b></summary>
+
+- ✅ Redundant Connection (Union-Find — first cycle edge)
+- ✅ Word Ladder (BFS + pattern map — Hard)
+
+</details>
 <details>
 <summary><b>Day 98 — Graphs (October 14, 2026)</b></summary>
 
