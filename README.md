@@ -1,13 +1,13 @@
 ## ⚡ Quick Stats
 
-![Progress](https://img.shields.io/badge/Overall_Progress-98%2F150-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Overall_Progress-101%2F150-orange?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Status-🔥_Active-red?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Curriculum-NeetCode_150-00b8a3?style=for-the-badge)
 
 ---
 
 ## 🗺️ The Roadmap (NeetCode 150)
-`[██████████████████████████████░░░░░░░░░░░░░░░] 65%`
+`[████████████████████████████████░░░░░░░░░░░░░] 67%`
 | 🧩 Section | Status | Progress |
 |---|---|---|
 | Arrays & Hashing | ✅ Done | `9/9` |
@@ -21,16 +21,23 @@
 | Backtracking | ✅ Done | `10/10` |
 | Graphs | ✅ Done   | `13/13` |
 | Advanced Graphs | ⬜ Locked | `0/6` |
-| 1-D Dynamic Programming | ⏳ In Progress | 6/12 |
+| 1-D Dynamic Programming | ⏳ In Progress | `11/12` |
 | 2-D Dynamic Programming | ⬜ Locked | `0/11` |
 | Greedy | ⬜ Locked | `0/8` |
 | Intervals | ⬜ Locked | `0/6` |
 | Math & Geometry | ⬜ Locked | `0/8` |
 | Bit Manipulation | ⬜ Locked | `0/7` |
-
 ---
 
 ## 🪵 Daily Logs
+<details>
+<summary><b>Day 102 — 1-D Dynamic Programming (October 24, 2026)</b></summary>
+
+- ✅ Decode Ways (1-D DP — ways to decode string)
+- ✅ Coin Change (1-D DP — unbounded knapsack)
+- ✅ Maximum Product Subarray (1-D DP — track min and max)
+
+</details>
 <details>
 <summary><b>Day 101 — 1-D Dynamic Programming (October 23, 2026)</b></summary>
 
